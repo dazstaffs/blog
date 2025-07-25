@@ -14,6 +14,3 @@ This is my first post using GitHub Pages and Markdown!
 - Simple syntax
 - Great for blogging
 
-```python
-print("Hello, world!")
-
