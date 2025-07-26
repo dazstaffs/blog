@@ -2,9 +2,10 @@
 layout: home
 title: "Blog Home"
 date: 2025-07-25
+list_title: 🔁 Posts
 ---
 
-# 🌟 Welcome to my Blog!
+## 🌟 Welcome to my Blog!
 
 Hi there! 👋 I'm Darren, Head of Software Engineering in insurance, and this blog is where I detail my insuranace engineering experiences for the world to read and benefit from.
 
@@ -37,11 +38,3 @@ _(More posts coming soon!)_
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
 - Technical Writing - Why technical writers shouldn't be overlooked
-
----
-
-## 🔁 All Posts
-
-[AZ-900 Microsoft Azure Fundamentals Exam - Key Takeaways](_posts/2025-07-25-AZ900.md)
-
----
