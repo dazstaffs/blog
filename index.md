@@ -12,7 +12,7 @@ Hi there! 👋 I'm Darren, Head of Software Engineering in insurance, and this b
 
 ## 📌 Featured Posts
 
-### [Key Takeaways from the AZ-900 Microsoft Azure Fundamentals Exam](/az-900-key-takeaways.md)  
+### [Key Takeaways from the AZ-900 Microsoft Azure Fundamentals Exam](_posts/2025-07-25-AZ900.md)  
 A concise breakdown of core cloud concepts, Azure services, security, and pricing for the AZ-900 exam.  
 
 *(More posts coming soon!)*
