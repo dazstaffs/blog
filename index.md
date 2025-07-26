@@ -19,15 +19,6 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 ---
 
-## 📚 Categories
-
-- **Azure Fundamentals** (e.g., AZ-900, AZ-104)  
-- **Cloud Security**  
-- **Study Tips & Resources**  
-- **Project Walkthroughs**  
-
----
-
 ## 🔗 Quick Resources
 
 - [Microsoft Learn AZ-900 Path](https://learn.microsoft.com/en-us/certifications/exams/az-900/)  
@@ -38,11 +29,7 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 ## 🗓️ Coming Soon
 
-- **Why GitHub is the future and why insuretech should be migrating to GitHub**  
+- **Why GitHub is the right choice and why insuretech should be migrating away from Azure DevOps**  
 - **Lesson Learned from LM1: London Market Essentials 1**   
-
----
-
-**Thanks for visiting!**
 
 
