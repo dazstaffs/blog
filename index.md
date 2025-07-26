@@ -35,4 +35,11 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 - **Building a Tech Radar with ThoughtWorks**
 - **Is Uizard a revolution in rebuilding legacy software**
 
+---
+
+## 📌 All Posts
+### [Key Takeaways from the AZ-900 Microsoft Azure Fundamentals Exam](_posts/2025-07-25-AZ900.md)  
+
+---
+
 
