@@ -2,7 +2,7 @@
 layout: home
 title: "Blog Home"
 date: 2025-07-25
-list_title: 🔁 Posts
+list_title: 🔁 All Posts
 ---
 
 ## 🌟 Welcome to my Blog!
@@ -38,3 +38,5 @@ _(More posts coming soon!)_
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
 - Technical Writing - Why technical writers shouldn't be overlooked
+
+---
