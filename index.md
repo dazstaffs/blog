@@ -17,8 +17,6 @@ Hi there! 👋 I'm Darren, Head of Software Engineering in insurance, and this b
 
 A concise breakdown of core cloud concepts, Azure services, security, and pricing for the AZ-900 exam.
 
-_(More posts coming soon!)_
-
 ---
 
 ## 🔗 Quick Resources
