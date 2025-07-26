@@ -22,9 +22,6 @@ Let’s break down why GitHub excels in these areas.
 - Runs automatically on every push or PR
 - Provides detailed findings with remediation guidance
 
-![CodeQL identifying a security issue in a pull request](https://github.blog/wp-content/uploads/2021/03/CodeQL-PR-check-failed.png)  
-_(Example: CodeQL detecting a potential SQL injection vulnerability in a pull request.)_
-
 Azure DevOps requires manual setup of security scanning tools like **SonarQube** or **Checkmarx**, which often involve additional licensing costs and configuration overhead.
 
 ---
@@ -37,9 +34,6 @@ Azure DevOps requires manual setup of security scanning tools like **SonarQube**
 - Opens **pull requests** to update them
 - Alerts you about known vulnerabilities
 
-![Dependabot creating a pull request for a dependency update](https://docs.github.com/assets/cb-20373/images/help/dependabot/dependabot-pr-open.png)  
-_(Example: Dependabot automatically opening a PR to fix a vulnerable dependency.)_
-
 Azure DevOps lacks a built-in equivalent—you’d need external tools like **WhiteSource** or **Renovate**, which require additional setup and licensing.
 
 ---
@@ -47,8 +41,6 @@ Azure DevOps lacks a built-in equivalent—you’d need external tools like **Wh
 ## 3. **License Scanning: Avoid Risky Dependencies**
 
 GitHub automatically scans dependencies for **license compliance issues**, warning you if a package has restrictive (e.g., GPL) or non-compliant licenses.
-
-![GitHub dependency graph showing license warnings](https://docs.github.com/assets/cb-13895/images/help/repository/dependency-graph-license-warning.png)
 
 Azure DevOps doesn’t offer native license scanning—you’d need third-party solutions, adding complexity.
 
