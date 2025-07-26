@@ -4,7 +4,7 @@ title: "Welcome to My Blog"
 date: 2025-07-25
 ---
 
-# 🌟 Welcome to Blog!
+# 🌟 Welcome to my Blog!
 
 Hi there! 👋 I'm Darren, Head of Software Engineering in insurance, and this blog is where I detail my insuranace engineering experiences for the world to read and benefit from.
 
