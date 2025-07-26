@@ -36,6 +36,5 @@ _(More posts coming soon!)_
 - Mermaid diagrams - How they helped me unravel a complex process
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
-- Technical Writing - Why technical writers shouldn't be overlooked
 
 ---

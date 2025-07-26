@@ -19,6 +19,7 @@ CodeQL is GitHub’s powerful semantic code analysis engine that helps identify 
 - Scans code for security flaws (SQLi, XSS, hardcoded secrets, etc.)
 - Runs automatically on every push or PR
 - Provides detailed findings with remediation guidance
+- GitHub Copilot can also attempt to fix the problem for you with code suggestions
 
 Azure DevOps requires manual setup of security scanning tools like SonarQube or Checkmarx, which often involve additional licensing costs and configuration overhead.
 
@@ -26,7 +27,7 @@ Azure DevOps requires manual setup of security scanning tools like SonarQube or 
 
 ## 2. **Dependabot: Automated Dependency Updates & Security Fixes**
 
-**Dependabot** is a game-changer for dependency management. It automatically:
+Dependabot is a game-changer for dependency management. It automatically:
 
 - Checks for outdated dependencies
 - Opens pull requests to update them
@@ -54,7 +55,7 @@ GitHub’s Security-First Approach Wins
 | **Dependency Updates**   | ✅ Dependabot (automatic PRs) | ❌ Requires Renovate/WhiteSource   |
 | **License Scanning**     | ✅ Built-in                   | ❌ Manual tools needed             |
 
-GitHub’s seamless integration of security tools makes it the better choice for teams that prioritize secure, maintainable, and compliant code\*\*. Enable GitHub Advanced Security today and see the difference!
+GitHub’s seamless integration of security tools makes it the better choice for teams that prioritize secure, maintainable, and compliant code. Enable GitHub Advanced Security today and see the difference!
 
 ---
 
