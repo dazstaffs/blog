@@ -45,5 +45,3 @@ _(More posts coming soon!)_
 [AZ-900 Microsoft Azure Fundamentals Exam - Key Takeaways](_posts/2025-07-25-AZ900.md)
 
 ---
-
-<h2>Posts</h2>
