@@ -1,6 +1,6 @@
 ---
-layout: post
-title: "Welcome to My Blog"
+layout: default
+title: "Blog Home"
 date: 2025-07-25
 ---
 
