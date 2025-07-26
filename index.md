@@ -4,9 +4,9 @@ title: "Welcome to My Blog"
 date: 2025-07-25
 ---
 
-# 🌟 Welcome to My Cloud Learning Journey!
+# 🌟 Welcome to Blog!
 
-Hi there! 👋 I'm Darren, and this blog is where I share my notes, study guides, and key takeaways from cloud certifications (especially Microsoft Azure). Whether you're preparing for the **AZ-900** or exploring cloud concepts, I hope these resources help you!
+Hi there! 👋 I'm Darren, Head of Software Engineering in insurance, and this blog is where I detail my insuranace engineering experiences for the world to read and benefit from.
 
 ---
 
@@ -36,22 +36,13 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 ---
 
-## 💬 About Me
-
-I’m a [your role, e.g., cloud enthusiast, IT professional, student] passionate about cloud technologies. This blog is my way of documenting my learning and helping others.  
-
-📫 **Reach out**: [Your Email] | [Twitter/LinkedIn Handle]  
-
----
-
 ## 🗓️ Coming Soon
 
-- **AZ-104 Study Notes**  
-- **How to Set Up Your First Azure VM**  
-- **Cloud Cost Optimization Tips**  
+- **Why GitHub is the future and why insuretech should be migrating to GitHub**  
+- **Lesson Learned from LM1: London Market Essentials 1**   
 
 ---
 
-**Thanks for visiting!** 🚀  
+**Thanks for visiting!**
 
 
