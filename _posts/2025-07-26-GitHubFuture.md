@@ -23,11 +23,7 @@ CodeQL is GitHub’s powerful semantic code analysis engine that helps identify 
 
 Azure DevOps requires manual setup of security scanning tools like SonarQube or Checkmarx, which often involve additional licensing costs and configuration overhead.
 
-![Image]({{"/images/codeproblems.png"}})
-
 ![Image]({{ site.baseurl }}/assets/images/codeproblems.png)
-
-![Image](/image/codeproblems.png")
 
 ---
 
