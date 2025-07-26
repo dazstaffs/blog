@@ -25,7 +25,7 @@ Azure DevOps requires manual setup of security scanning tools like SonarQube or 
 
 ![Image]({{"/images/codeproblems.png"}})
 
-![Image]({{ site.baseurl }}/images/codeproblems.png)
+![Image]({{ site.baseurl }}/assets/images/codeproblems.png)
 
 ![Image](/image/codeproblems.png")
 
