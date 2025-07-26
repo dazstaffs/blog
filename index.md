@@ -29,13 +29,13 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 ## 🗓️ Coming Soon
 
+- **Building the best team - How to build the best team as a new leader**
 - **GitHub - Why GitHub is the right direction for DevSecOps**  
 - **LM1: London Market Essentials 1 - Lessons Learned**
 - **Mermaid diagrams - How they helped me unravel a complex process**
 - **ThoughtWorks Tech Radar - How to build your own Tech Radar**
 - **Uizard - Is this a revolution in rebuilding legacy software**
 - **Technical Writing - Why technical writers shouldn't be overlooked**
-- **Recruitment - How to build the best team for your business**
 
 ---
 
