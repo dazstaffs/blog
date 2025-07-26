@@ -66,6 +66,6 @@ GitHub’s **seamless integration of security tools** makes it the better choice
 
 🚀 **Ready to switch?** Enable **GitHub Advanced Security** today and see the difference!
 
----
+**Have questions?** Reach out to me: [LinkedIn](https://www.linkedin.com/in/darren-stafford/)
 
-Would you like me to refine any section or add more comparisons? Let me know! 🔍
+---
