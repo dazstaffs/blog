@@ -30,6 +30,7 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 ## 🗓️ Coming Soon
 
 - **Why GitHub is the right choice and why insuretech should be migrating away from Azure DevOps**  
-- **Lesson Learned from LM1: London Market Essentials 1**   
+- **Lesson Learned from LM1: London Market Essentials 1**
+- **How Mermaid diagrams helped me unravel a complex process**   
 
 
