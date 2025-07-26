@@ -12,7 +12,7 @@ Hi there! 👋 I'm Darren, Head of Software Engineering in insurance, and this b
 
 ## 📌 Featured Posts
 
-### [Key Takeaways from the AZ-900 Microsoft Azure Fundamentals Exam](_posts/2025-07-25-AZ900.md)  
+### [AZ-900 Microsoft Azure Fundamentals Exam - Key Takeaways](_posts/2025-07-25-AZ900.md)  
 A concise breakdown of core cloud concepts, Azure services, security, and pricing for the AZ-900 exam.  
 
 *(More posts coming soon!)*
@@ -29,16 +29,17 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 ## 🗓️ Coming Soon
 
-- **Why GitHub is the right choice and why insuretech should be migrating away from Azure DevOps**  
-- **Lessons Learned from LM1: London Market Essentials 1**
-- **How Mermaid diagrams helped me unravel a complex process**
-- **Building a Tech Radar with ThoughtWorks**
-- **Is Uizard a revolution in rebuilding legacy software**
+- **GitHub - Why GitHub is the right direction for DevSecOps**  
+- **LM1: London Market Essentials 1 - Lessons Learned**
+- **Mermaid diagrams - How they helped me unravel a complex process**
+- **ThoughtWorks Tech Radar - How to build your own Tech Radar**
+- **Uizard - Is this a revolution in rebuilding legacy software**
+- **Technical Writing - Why technical writers shouldn't be overlooked**
 
 ---
 
 ## 🔁 All Posts
-[Key Takeaways from the AZ-900 Microsoft Azure Fundamentals Exam](_posts/2025-07-25-AZ900.md)  
+[AZ-900 Microsoft Azure Fundamentals Exam - Key Takeaways](_posts/2025-07-25-AZ900.md)  
 
 ---
 
