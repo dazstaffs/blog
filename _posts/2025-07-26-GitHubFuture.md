@@ -25,6 +25,8 @@ Azure DevOps requires manual setup of security scanning tools like SonarQube or 
 
 ![Image]({{"/image/codeproblems.png"}})
 
+![Image]({{ site.baseurl }}/images/codeproblems.png)
+
 ---
 
 ## 2. **Dependabot: Automated Dependency Updates & Security Fixes**
