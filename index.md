@@ -35,6 +35,7 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 - **ThoughtWorks Tech Radar - How to build your own Tech Radar**
 - **Uizard - Is this a revolution in rebuilding legacy software**
 - **Technical Writing - Why technical writers shouldn't be overlooked**
+- **Recruitment - How to build the best team for your business**
 
 ---
 
