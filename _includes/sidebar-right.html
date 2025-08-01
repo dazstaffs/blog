@@ -1,0 +1,30 @@
+<div class="widget">
+  <h2>Recent Posts</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+
+<div class="widget">
+  <h2>Tags</h2>
+  <div class="tag-cloud">
+    {% for tag in site.tags %}
+      <a href="{{ site.baseurl }}/tags/{{ tag[0] | slugify }}" class="tag">
+        {{ tag[0] }}
+      </a>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="widget">
+  <h2>Subscribe</h2>
+  <p>Get the latest posts delivered to your inbox.</p>
+  <form class="subscribe-form">
+    <input type="email" placeholder="Your email address">
+    <button type="submit" class="btn">Subscribe</button>
+  </form>
+</div>

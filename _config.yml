@@ -1,3 +1,23 @@
+title: "My Blog"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+
+# Site author
+author: "Darren Stafford"
+author_bio: "I write about web development, design, and other interesting topics."
+
+# Social media
+social:
+  twitter: "#"
+  github: "#"
+  linkedin: "#"
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+
 sass:
   sass_dir: _sass
   style: compressed

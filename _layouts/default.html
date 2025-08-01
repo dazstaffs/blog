@@ -1,20 +1,37 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-        <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
-  </head>
-  <body>
-    <nav>
-      <a href="/">Home</a>
-    </nav>
-    <h1>{{ page.title }}</h1>
-    <section>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ site.title }} | {{ page.title }}</title>
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
+</head>
+<body>
+  <div class="container">
+    <!-- Header/Navigation -->
+    <header class="header">
+      {% include header.html %}
+    </header>
+
+    <!-- Left Sidebar -->
+    <aside class="sidebar sidebar-left">
+      {% include sidebar-left.html %}
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
       {{ content }}
-    </section>
-    <footer>
-      &copy; Darren Stafford
+    </main>
+
+    <!-- Right Sidebar -->
+    <aside class="sidebar sidebar-right">
+      {% include sidebar-right.html %}
+    </aside>
+
+    <!-- Footer -->
+    <footer class="footer">
+      {% include footer.html %}
     </footer>
-  </body>
+  </div>
+</body>
 </html>

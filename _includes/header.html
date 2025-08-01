@@ -1,5 +1,13 @@
-<header>
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ site.baseurl }}/_site/css/main.css">
-</header>
+<h1><a href="{{ site.baseurl }}/">{{ site.title }}</a></h1>
+<nav class="nav">
+  <a href="{{ site.baseurl }}/">Home</a>
+  <a href="{{ site.baseurl }}/about">About</a>
+  <a href="{{ site.baseurl }}/blog">Blog</a>
+  <a href="{{ site.baseurl }}/contact">Contact</a>
+  
+  <!-- Optional search -->
+  <form class="search-form" action="{{ site.baseurl }}/search">
+    <input type="text" placeholder="Search..." name="q">
+    <button type="submit" class="btn btn-outline">Go</button>
+  </form>
+</nav>
