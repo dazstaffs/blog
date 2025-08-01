@@ -1,4 +1,4 @@
-title: "My Blog"
+title: "Darren Stafford - Blog"
 baseurl: "/blog"
 url: "https://dazstaffs.github.io/"
 
@@ -8,9 +8,8 @@ author_bio: "I write about web development, design, and other interesting topics
 
 # Social media
 social:
-  twitter: "#"
-  github: "#"
-  linkedin: "#"
+  github: "https://github.com/dazstaffs"
+  linkedin: "www.linkedin.com/in/darren-stafford"
 
 # Build settings
 markdown: kramdown
