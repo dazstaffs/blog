@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "Technical Writing: Why Technical Writers Shouldn't Be Overlooked"
 date: 2024-12-20
 ---
