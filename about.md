@@ -5,19 +5,9 @@ permalink: /about/
 ---
 
 <div class="about-page">
-
-  <header class="about-header">
-    <h1>Darren Stafford</h1>
-    <p class="contact-info">
-      <a href="mailto:darren-stafford@hotmail.co.uk">darren-stafford@hotmail.co.uk</a> | 
-      (+44) 07904757336 | 
-      <a href="https://www.linkedin.com/in/darren-stafford" target="_blank">LinkedIn</a>
-    </p>
-  </header>
-
   <section class="about-section">
     <h2>Professional Profile</h2>
-    <p>Experienced Applications Delivery Manager and Software Engineering leader with 10+ years in insurance technology, specializing in modernizing legacy systems, implementing Azure cloud solutions, and leading high-performing engineering teams. Proven track record in strategic transformation, cost optimization, and delivering complex insurance platforms.</p>
+    <p>Experienced Applications Delivery Manager and Software Engineering leader with 7+ years in insurance technology, specializing in modernizing legacy systems, implementing Azure cloud solutions, and leading high-performing engineering teams. Proven track record in strategic transformation, cost optimization, and delivering complex insurance platforms.</p>
   </section>
 
   <section class="about-section">
