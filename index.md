@@ -29,9 +29,9 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 ## 🔗 Quick Resources
 
-- [Microsoft Learn AZ-900 Path](https://learn.microsoft.com/en-us/certifications/exams/az-900/)
-- [Azure Free Account](https://azure.microsoft.com/en-us/free/)
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [Mitre Att&ck Framework](https://attack.mitre.org/)
+- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/en-gb/radar)
 
 ---
 
