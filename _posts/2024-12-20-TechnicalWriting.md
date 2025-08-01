@@ -2,6 +2,7 @@
 layout: post
 title: "Technical Writing: Why Technical Writers Shouldn't Be Overlooked"
 date: 2024-12-20
+categories: [web development, design]
 ---
 
 Technical writers play a **critical yet often underappreciated** role in software development, product documentation, and knowledge sharing. Their work bridges the gap between complex technical concepts and end-users, ensuring clarity, usability, and accessibility.
