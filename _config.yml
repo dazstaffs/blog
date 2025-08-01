@@ -20,3 +20,8 @@ plugins:
 sass:
   sass_dir: _sass
   style: compressed
+
+collections:
+  tags:
+    output: true
+    permalink: /tags/:name/
