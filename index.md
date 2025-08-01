@@ -34,5 +34,14 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 - Mermaid diagrams - How they helped me unravel a complex process
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
+- PowerBi - My new best friend for data visualisation
+
+---
+
+## 🔁 Previous Posts
+
+- [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
+- [Technical Writing: Why Technical Writers Shouldn't Be Overlooked](_posts/2024-12-20-TechnicalWriting.md)
+- [GitHub - Why GitHub is the right direction for DevSecOps](_posts/2025-07-26-GitHubFuture.md)
 
 ---
