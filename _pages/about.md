@@ -1,0 +1,83 @@
+---
+layout: page
+title: About
+permalink: /about/
+---
+
+<div class="about-page">
+
+  <header class="about-header">
+    <h1>Darren Stafford</h1>
+    <p class="contact-info">
+      <a href="mailto:darren-stafford@hotmail.co.uk">darren-stafford@hotmail.co.uk</a> | 
+      (+44) 07904757336 | 
+      <a href="https://www.linkedin.com/in/darren-stafford" target="_blank">LinkedIn</a>
+    </p>
+  </header>
+
+  <section class="about-section">
+    <h2>Professional Profile</h2>
+    <p>Experienced Applications Delivery Manager and Software Engineering leader with 10+ years in insurance technology, specializing in modernizing legacy systems, implementing Azure cloud solutions, and leading high-performing engineering teams. Proven track record in strategic transformation, cost optimization, and delivering complex insurance platforms.</p>
+  </section>
+
+  <section class="about-section">
+    <h2>Core Expertise</h2>
+    <div class="expertise-grid">
+      <div class="expertise-item">
+        <h3>Technical Leadership</h3>
+        <p>Leading teams of 20+ engineers across software, data, and QA disciplines</p>
+      </div>
+      <div class="expertise-item">
+        <h3>Cloud Transformation</h3>
+        <p>Azure migrations, AI integration, and cost optimization (saving £1.9M+)</p>
+      </div>
+      <div class="expertise-item">
+        <h3>Insurance Technology</h3>
+        <p>Policy admin systems, Moody's IRP, Sequel Impact, and Sapien's Triple Hop</p>
+      </div>
+      <div class="expertise-item">
+        <h3>Process Improvement</h3>
+        <p>Agile transformations, CI/CD pipelines, and continuous improvement programs</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="about-section career-highlights">
+    <h2>Career Highlights</h2>
+    <ul>
+      <li>Reduced OpEx by £460k/year through strategic outsourcing partnerships</li>
+      <li>Implemented security hardening in GitHub Enterprise with CodeQL and Dependabot</li>
+      <li>Migrated from .NET 4.5 to .NET Core and Windows to Linux container apps</li>
+      <li>Spearheaded Waterfall to Agile transformation with Azure DevOps adoption</li>
+      <li>Developed multiple insurance systems including RecertiSure and Technical Pricing tools</li>
+    </ul>
+  </section>
+
+  <section class="about-section">
+    <h2>Education & Certifications</h2>
+    <div class="education-item">
+      <h3>BSc (Hons) Multimedia Communication Systems</h3>
+      <p>Bournemouth University | 2:1 | 2007</p>
+    </div>
+    <div class="certifications">
+      <h3>Recent Certifications:</h3>
+      <ul>
+        <li>AZ-900: Microsoft Azure Fundamentals (2025)</li>
+        <li>DSDM Agile Project Management Practitioner (2017)</li>
+        <li>PRINCE2 Foundation (2014)</li>
+        <li>ITIL Foundation (2013)</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="about-section">
+    <h2>Personal Interests</h2>
+    <p>Committed marathon runner (PB 3:24) with completed races including Paris Marathon. Passionate about continuous learning with additional qualifications in carpentry and tiling. Actively exploring plumbing and plastering skills.</p>
+  </section>
+
+  <div class="cta-buttons">
+    <a href="/contact" class="btn-primary">Contact Me</a>
+    <a href="https://www.linkedin.com/in/darren-stafford" target="_blank" class="btn-secondary">View LinkedIn</a>
+  </div>
+
+</div>
