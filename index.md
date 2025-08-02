@@ -30,6 +30,9 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 ## 🔗 Quick Resources
 
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
+- [Azure Target SLAs](https://azurecharts.com/sla)
+- [Blueprint Two Progress Reports](https://www.velonetic.co.uk/blueprint-two/progress/blueprint-two-progress-reports)
+- [Lloyd's Business Timetable](https://www.lloyds.com/tools-and-systems/business-timetable)
 - [Mitre Att&ck Framework](https://attack.mitre.org/)
 - [ThoughtWorks Technology Radar](https://www.thoughtworks.com/en-gb/radar)
 

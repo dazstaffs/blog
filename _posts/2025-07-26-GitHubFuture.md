@@ -64,7 +64,7 @@ GitHub automatically scans your code for secrets such as usernames and password,
 
 The big question on your mind then, is can't Azure DevOps (ADO) do these things too?!?! Well yes it can, but at more expense and not in the same security-first way that GitHub can.
 
-Take static code analysis as an example. Azure DevOps will allow you to enabled advanced security which can also include CodeQL, but you have to setup Azure billing to do this as there's a steeper cost involved or you need to buy licenses for tools like SonarQube or Checkmarx. Then there's dependency updates which will require licenses for tools such as Snyk. And finally, secret scanning requires you to link ADO to GibHub's secret scanning - it doesn't come out of the box with ADO.
+Take static code analysis as an example. Azure DevOps will allow you to enable advanced security which can also include CodeQL, but you have to setup Azure billing to do this as there's a steeper cost involved or you need to buy licenses for tools like SonarQube or Checkmarx. Then there's dependency updates which will require licenses for tools such as Snyk. And finally, secret scanning requires you to link ADO to GibHub's secret scanning - it doesn't come out of the box with ADO.
 
 ## Final Thoughts
 
