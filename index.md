@@ -38,7 +38,7 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 ## 🗓️ Coming Soon
 
 - Building the best team - How to build the best team as a new leader
-- LM1: London Market Essentials 1 - Lessons Learned
+- Measure What Matters - A review of John Doerr's famous book
 - Mermaid diagrams - How they helped me unravel a complex process
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
@@ -46,10 +46,11 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 ---
 
-## 🔁 Previous Posts
+## 🔁 Previous Posts - A-Z
 
 - [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
-- [Technical Writing: Why Technical Writers Shouldn't Be Overlooked](_posts/2024-12-20-TechnicalWriting.md)
 - [GitHub - Why GitHub is the right direction for DevSecOps](_posts/2025-07-26-GitHubFuture.md)
+- [LM1: London Market Essentials 1 - Lessons Learned](_post/2025-08-02-LM12025.md)
+- [Technical Writing: Why Technical Writers Shouldn't Be Overlooked](_posts/2024-12-20-TechnicalWriting.md)
 
 ---
