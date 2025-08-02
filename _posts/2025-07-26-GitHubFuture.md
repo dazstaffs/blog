@@ -2,7 +2,7 @@
 layout: post
 title: "GitHub - Why GitHub is the right direction for DevSecOps"
 date: 2025-07-26
-categories: [github, devsecops]
+categories: [github, devsecops, code repositories]
 ---
 
 When it comes to modern DevOps platforms, GitHub stands out as a superior choice compared to Azure DevOps—especially for teams focused on security, dependency management, and automated code analysis. With features like CodeQL, Dependabot, and license scanning, GitHub provides a more robust and integrated experience for keeping your code secure.
@@ -54,23 +54,21 @@ Let's dive deeper and take a look at the problem:
 
 ## 3. **Secret Scanning**
 
-GitHub automatically scans your code for secrets such as usernames and password, APIs keys, etc, that should be stored in a more secure place. Luckily for me, no secretss have been found:
+GitHub automatically scans your code for secrets such as usernames and password, APIs keys, etc, that should be stored in a more secure place. Luckily for me, no secrets have been found:
 
 ![Image]({{ site.baseurl }}/assets/images/SecretScanning1.png)
 
 ---
 
+## What about Azure DevOps?
+
+The big question on your mind then, is can't Azure DevOps (ADO) do these things too?!?! Well yes it can, but at more expense and not in the same security-first way that GitHub can.
+
+Take static code analysis as an example. Azure DevOps will allow you to enabled advanced security which can also include CodeQL, but you have to setup Azure billing to do this as there's a steeper cost involved or you need to buy licenses for tools like SonarQube or Checkmarx. Then there's dependency updates which will require licenses for tools such as Snyk. And finally, secret scanning requires you to link ADO to GibHub's secret scanning - it doesn't come out of the box with ADO.
+
 ## Final Thoughts
 
-Here is a comparision between GitHub and Azure DevOps:
-
-| Feature                  | GitHub (Native)               | Azure DevOps (Requires Extensions) |
-| ------------------------ | ----------------------------- | ---------------------------------- |
-| **Static Code Analysis** | ✅ CodeQL (built-in)          | ❌ Needs SonarQube/Checkmarx       |
-| **Dependency Updates**   | ✅ Dependabot (automatic PRs) | ❌ Requires Renovate/WhiteSource   |
-| **Secret Scanning**      | ✅ Built-in                   | ❌ Manual tools needed             |
-
-GitHub’s Security-First Approach Wins. GitHub’s seamless integration of security tools makes it the better choice for teams that prioritize secure, maintainable, and compliant code. Enable GitHub Advanced Security today and see the difference.
+GitHub’s Security-First Approach Wins. GitHub’s seamless integration of security tools makes it the better choice for teams that prioritize secure, maintainable, and compliant code. Enable GitHub Advanced Security today to see the difference and to save money on buying additional licenses for Azure DevOps.
 
 ---
 
