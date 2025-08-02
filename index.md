@@ -9,13 +9,13 @@ list_title: 🔁 All Posts
 
 Hi there! I’m Darren Stafford, a seasoned IT professional with a career spanning over 16 years (since 2007) across diverse industries — from Insurance (since 2018) and Pharmaceuticals, to leadership roles in tech.
 
-My journey started in IT Service Management, evolved through hands-on technical work, and led me to my current role as a Head of Software Engineering. Along the way, I’ve gathered insights, lessons, and a few war stories—all of which I’m excited to share here.
+My journey started in IT Service Management, evolved through hands-on technical work, and led me to my current role as a Head of Software Engineering in insurance. Along the way, I’ve gathered insights, lessons, and a few war stories—all of which I’m excited to share here.
 
 This blog will cover everything from software engineering best practices and IT leadership to industry-specific tech challenges. Whether you’re a fellow IT pro, a curious learner, or just passing through, I hope you find something valuable (or at least entertaining!).
 
 Thanks for stopping by—let’s dive in.
 
-– Darren
+**– Darren**
 
 ---
 
