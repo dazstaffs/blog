@@ -7,6 +7,8 @@ $text-color: #333;
 $light-text: #fff;
 $shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 $font-primary: 'Unna', sans-serif;
+$base-font-size: 18px;
+$line-height: 1.6;
 
 // Mixins
 @mixin flex-center {
@@ -23,6 +25,7 @@ body {
   color: $text-color;
   background-color: lighten($secondary-color, 3%);
   line-height: 1.6;
+  font-size: $base-font-size;
 }
 
 a {
