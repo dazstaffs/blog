@@ -40,9 +40,9 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 - Building the best team - How to build the best team as a new leader
 - Measure What Matters - A review of John Doerr's famous book
 - Mermaid diagrams - How they helped me unravel a complex process
+- PowerBi - My new best friend for data visualisation
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
-- PowerBi - My new best friend for data visualisation
 
 ---
 
