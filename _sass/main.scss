@@ -69,9 +69,10 @@ a {
   }
 
   .nav {
-    display: inline-block;
     gap: 1.5rem;
     margin-top: 1rem;
+    position:relative;
+    float:right;
 
     a {
       color: $light-text;
