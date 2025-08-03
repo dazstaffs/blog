@@ -106,9 +106,3 @@ Walls of text intimidate readers. Break content into:
 Technical writers aren’t just "nice to have"—they’re **force multipliers** for engineering teams and user satisfaction.
 
 **Want to improve?** Study [Google’s guide](https://developers.google.com/tech-writing/one) and practice rewriting complex content simply!
-
----
-
-**Have questions?** Reach out to me: [LinkedIn](https://www.linkedin.com/in/darren-stafford/)
-
----
