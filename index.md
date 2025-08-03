@@ -41,6 +41,8 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 ## 🗓️ Coming Soon
 
 - Building the best team - How to build the best team as a new leader
+- DDD Notes - My top notes from DDD Reading 2017 to 2020 and from DDD South West 2024
+- ECF2 - What Electronic Claims File 2, means for your business
 - Measure What Matters - A review of John Doerr's famous book
 - Mermaid diagrams - How they helped me unravel a complex process
 - PowerBi - My new best friend for data visualisation
@@ -53,7 +55,7 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 
 - [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
 - [GitHub - Why GitHub is the right direction for DevSecOps](_posts/2025-07-26-GitHubFuture.md)
-- [LM1: London Market Essentials 1 - Lessons Learned](_post/2025-08-02-LM12025.md)
+- [LM1: London Market Essentials 1 - Lessons Learned](_posts/2025-08-02-LM12025.md)
 - [Technical Writing: Why Technical Writers Shouldn't Be Overlooked](_posts/2024-12-20-TechnicalWriting.md)
 
 ---
