@@ -39,7 +39,7 @@ permalink: /about/
       <li>Implemented security hardening in GitHub Enterprise with CodeQL and Dependabot</li>
       <li>Migrated from .NET 4.5 to .NET Core and Windows to Linux container apps</li>
       <li>Spearheaded Waterfall to Agile transformation with Azure DevOps adoption</li>
-      <li>Developed multiple insurance systems including RecertiSure and Technical Pricing tools</li>
+      <li>Developed multiple insurance systems including an application permission auditing tool, Whitespace to PAS (Policy Admin System) underwriting workbench POC and APIs for legacy PAS systems.</li>
     </ul>
   </section>
 
@@ -61,12 +61,20 @@ permalink: /about/
   </section>
 
   <section class="about-section">
+    <h2>Awards</h2>
+    <div class="education-item">
+      <h3>Hants Web Award (2005) for Innovation in Education</h3>
+      <p>Won a Hants Web Award in 2005, for creating, what was at the time, an innovation that allowed students to access their personal drives from home via a web portal. By today's standards, this would called OneDrive or Google Drive</p>
+    </div>
+  </section>
+
+  <section class="about-section">
     <h2>Personal Interests</h2>
-    <p>Committed marathon runner (PB 3:24) with completed races including Paris Marathon. Passionate about continuous learning with additional qualifications in carpentry and tiling. Actively exploring plumbing and plastering skills.</p>
+    <p>A former England Athletics qualified running coach and committed marathon runner (PB 3:24) with completed races including Paris and Brighton. Passionate about continuous learning with additional qualifications in carpentry and tiling with a strong desire to also learn plumbing, plastering and electrical skills.</p>
   </section>
 
   <div class="cta-buttons">
-    <a href="/contact" class="btn-primary">Contact Me</a>
+    <a href="{{ site.baseurl }}/contact" class="btn-primary">Contact Me</a>
     <a href="https://www.linkedin.com/in/darren-stafford" target="_blank" class="btn-secondary">View LinkedIn</a>
   </div>
 
