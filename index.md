@@ -41,7 +41,6 @@ A concise breakdown of core cloud concepts, Azure services, security, and pricin
 ## 🗓️ Coming Soon
 
 - Building the best team - How to build the best team as a new leader
-- DDD Notes - Notes from DDD Reading 2017 to 2020 and DDD South West 2024
 - ECF2 - What Electronic Claims File 2, means for your business
 - Measure What Matters - A review of John Doerr's famous book
 - Mermaid diagrams - How they helped me unravel a complex process
