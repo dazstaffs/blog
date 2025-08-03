@@ -19,14 +19,6 @@ Thanks for stopping by—let’s dive in.
 
 ---
 
-## 📌 Featured Posts
-
-### [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
-
-A concise breakdown of core cloud concepts, Azure services, security, and pricing for the AZ-900 exam.
-
----
-
 ## 🔗 Quick Resources
 
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
