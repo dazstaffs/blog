@@ -478,6 +478,11 @@ a {
   .cta-buttons {
     flex-direction: column;
   }
+
+  img{
+    max-width: 580px;
+    height: auto;
+  }
 }
 
 /* Contact Page Styles */
