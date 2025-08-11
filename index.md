@@ -33,12 +33,14 @@ Thanks for stopping by—let’s dive in.
 ## 🗓️ Coming Soon
 
 - Building the best team - How to build the best team as a new leader
+- Running a marathon - How to train, what to expect and some pro tips
 - ECF2 - What Electronic Claims File 2, means for your business
 - Measure What Matters - A review of John Doerr's famous book
 - Mermaid diagrams - How they helped me unravel a complex process
 - PowerBi - My new best friend for data visualisation
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
+- Carpentry & Tiling - What I learnt and the parallels with insurance
 
 ---
 

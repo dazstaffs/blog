@@ -64,7 +64,7 @@ permalink: /about/
     <h2>Awards</h2>
     <div class="education-item">
       <h3>Hants Web Award (2005) for Innovation in Education</h3>
-      <p>Won a Hants Web Award in 2005, for creating, what was at the time, an innovation that allowed students to access their personal drives from home via a web portal. By today's standards, this would called OneDrive or Google Drive</p>
+      <p>Won a Hants Web Award in 2005, for creating, what was at the time, an innovation that allowed students to access their personal drives from home via a web portal. By today's standards, this would be an equivalent to OneDrive or Google Drive.</p>
     </div>
   </section>
 
