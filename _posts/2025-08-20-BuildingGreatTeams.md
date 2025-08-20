@@ -9,39 +9,6 @@ Building a great team, is by far the greatest achievement of my career to date. 
 
 ---
 
-## Books
-
-Although somewhat naive on reflection, I started reading books about leadership a few years before actually becoming a leader, as preparation. I would definitely recommend the following books:
-
-- Becoming an Effective Software Engineering Manager, James Stanier - this the perfect read for a new leader in software engineering. Some of the key takeaways include how to conduct 121s with your team in a way that they will appreciate, how to market your achievements, how to communicate with your manager and how to hit the ground running.
-- The Essential Managers Handbook, Dorling Kindersley - this book is good for understanding performance improvement plans, SMART objectives, how to create a scoring matrix to make a difficult decision and valuing diversity and many other useful things.
-- Coaching Skills for Leader in the Workplace, Jackie Arnold - this book explains the GROW (Goals, Reality, Options and What Next) model which is the best coaching model in my opinion and will come in handy in 121s with your team.
-- Mastering the Rockefeller Habits, Verne Harnish - this book has a great section on cultural values and how to instil them into your team.
-
-While books alone will not teach you everything you need to know, they will certainly provide you with a basic toolkit to get started.
-
-## Hiring
-
-I'm unable to disclose all of my hiring advice here, because one of my hires later confessed that they read a post I had written and knew about my technical test beforehand, but I can provide some high-level guidelines:
-
-- Always give candidates a technical test that you know cannot be completed within one hour, because we're evaluating the applicant's approach and attitude towards the test. One of my hires once remarked that he was chuffed to join my team, because he thought he had failed the technical test. I later had to explain that I was looking for x, y and z and he ticked all of the boxes.
-- Always try to hire someone that you think is better than you; we're trying to build a great team that will take our businesses in new directions than maintain the status quo.
-- Hire someone with a good attitude to life and work. I always say I can teach someone insurance but I can't teach them to have the right attitude.
-- Look for someone that does not constantly hop companies. I favour someone that spends, on average, at least 3 years with most companies they've worked for.
-- Look for someone that shows they invest in their career with extra certifications.
-
-## Harmony
-
-Now that you have some great advice on hiring great people, you will need to create harmony within your team and ensure everyone is working well together. My advice on achieving this is this:
-
-- Setup a rota for arranging socials where 2 people within your team, who wouldn't usually work together, have to come together to arrange a social within a certain budget per head. This not only brings together 2 people for a common cause, but it also creates a social where the whole team can come together to harmonise. Bonus tip - setup a socials scoring system so all team members can compete for the best social for the year.
-- Ask your team members to always turn their cameras on for meetings. I have found this works wonders for building harmony and engagement.
-- Rotate the scrum master role within each team which not only demonstrates a knowledge of the product by the scrum master but helps team members build confidence in public speaking.
-- Bring the team together once a week to discuss work, do demos and discuss life as well. In my team we have a barometer where each individual scores last week on a scale of 1 to 4, where 1 is great and 4 is bad. We also have a world day theme, so if it's national fajita day for example, we will discuss it. It's also advisable, if possible, to do this meeting in the office in a meeting room at the same time every week.
-- If you have many small teams, look to rotate the team members from time to time which not only creates new synergies but also ensures product knowledge is shared.
-
-This isn't an exhaustive list, but you should find that the above builds better relationships within the workplace.
-
 ## Cultural Values
 
 Cultural values should be at the heart of your organisation... and if your organisation hasn't established its values, I would strongly suggest defining your own values. At MS Amlin we have the TIPIC values - Team Work, Innovation, Professionalism, Integrity and Customer Focus and I firmly believe I can relate all issues back to these values and if I need to make a decision, I will use the values to make that decision. If you are having problems instilling your values into your team, I would recommend using the values for the following:
@@ -69,6 +36,40 @@ Finally let's talk about continuous learning and I mean for you! As managers we 
 - Google top books to read - I've mentioned some of my favourite books but it's key to constantly check for new reads.
 
 As my carpentry teacher explained, "after 30 years in the carpentry business, I'm still learning new techniques from my students" and what I interpret from this, is never accept that you've peaked as a manager and cannot improve on how to lead your team.
+
+## Hiring
+
+I'm unable to disclose all of my hiring advice here, because one of my hires later confessed that they read a post I had written and knew about my technical test beforehand, but I can provide some high-level guidelines:
+
+- Always give candidates a technical test that you know cannot be completed within one hour, because we're evaluating the applicant's approach and attitude towards the test. One of my hires once remarked that he was chuffed to join my team, because he thought he had failed the technical test. I later had to explain that I was looking for x, y and z and he ticked all of the boxes.
+- Always give the candidate a laptop with no internet connection so they cannot use ChatGPT to find the answer. You will need to install any dependencies though, so bear this in-mind.
+- Always try to hire someone that you think is better than you; we're trying to build a great team that will take our businesses in new directions than maintain the status quo.
+- Hire someone with a good attitude to life and work. I always say I can teach someone insurance but I can't teach them to have the right attitude.
+- Look for someone that does not constantly hop companies. I favour someone that spends, on average, at least 3 years with most companies they've worked for.
+- Look for someone that shows they invest in their career with extra certifications.
+
+## Harmony
+
+Now that you have some great advice on hiring great people, you will need to create harmony within your team and ensure everyone is working well together. My advice on achieving this is this:
+
+- Setup a rota for arranging socials where 2 people within your team, who wouldn't usually work together, have to come together to arrange a social within a certain budget per head. This not only brings together 2 people for a common cause, but it also creates a social where the whole team can come together to harmonise. Bonus tip - setup a socials scoring system so all team members can compete for the best social for the year.
+- Ask your team members to always turn their cameras on for meetings. I have found this works wonders for building harmony and engagement.
+- Rotate the scrum master role within each team which not only demonstrates a knowledge of the product by the scrum master but helps team members build confidence in public speaking.
+- Bring the team together once a week to discuss work, do demos and discuss life as well. In my team we have a barometer where each individual scores last week on a scale of 1 to 4, where 1 is great and 4 is bad. We also have a world day theme, so if it's national fajita day for example, we will discuss it. It's also advisable, if possible, to do this meeting in the office in a meeting room at the same time every week.
+- If you have many small teams, look to rotate the team members from time to time which not only creates new synergies but also ensures product knowledge is shared.
+
+This isn't an exhaustive list, but you should find that the above builds better relationships within the workplace.
+
+## Books
+
+Although somewhat naive on reflection, I started reading books about leadership a few years before actually becoming a leader, as preparation. I would definitely recommend the following books:
+
+- Becoming an Effective Software Engineering Manager, James Stanier - this the perfect read for a new leader in software engineering. Some of the key takeaways include how to conduct 121s with your team in a way that they will appreciate, how to market your achievements, how to communicate with your manager and how to hit the ground running.
+- The Essential Managers Handbook, Dorling Kindersley - this book is good for understanding performance improvement plans, SMART objectives, how to create a scoring matrix to make a difficult decision and valuing diversity and many other useful things.
+- Coaching Skills for Leader in the Workplace, Jackie Arnold - this book explains the GROW (Goals, Reality, Options and What Next) model which is the best coaching model in my opinion and will come in handy in 121s with your team.
+- Mastering the Rockefeller Habits, Verne Harnish - this book has a great section on cultural values and how to instil them into your team.
+
+While books alone will not teach you everything you need to know, they will certainly provide you with a basic toolkit to get started.
 
 ## Final Thoughts
 
