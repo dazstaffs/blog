@@ -32,7 +32,6 @@ Thanks for stopping by—let’s dive in.
 
 ## 🗓️ Coming Soon
 
-- Building the best team - How to build the best team as a new leader
 - Running a marathon - How to train, what to expect and some pro tips
 - ECF2 - What Electronic Claims File 2, means for your business
 - Measure What Matters - A review of John Doerr's famous book
@@ -47,6 +46,7 @@ Thanks for stopping by—let’s dive in.
 ## 🔁 Previous Posts - A-Z
 
 - [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
+- [Building great teams - How to build great teams as a new leader](_posts/2025-08-20-BuildingGreatTeams.md)
 - [DDD Notes - Notes from DDD Reading 2017 to 2020 and DDD South West 2024](_posts/2025-08-03-DDDNotes.md)
 - [GitHub - Why GitHub is the right direction for DevSecOps](_posts/2025-07-26-GitHubFuture.md)
 - [LM1: London Market Essentials 1 - Lessons Learned](_posts/2025-08-02-LM12025.md)
