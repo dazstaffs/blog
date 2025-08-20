@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Building great teams - How to build great teams as a new leader"
+title: "Building Great Teams - How to build great teams as a new leader"
 date: 2025-08-20
 categories: [leadership]
 ---
