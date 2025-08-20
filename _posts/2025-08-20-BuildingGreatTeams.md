@@ -13,10 +13,10 @@ Building a great team, is by far the greatest achievement of my career to date. 
 
 Although somewhat naive on reflection, I started reading books about leadership a few years before actually becoming a leader, as preparation. I would definitely recommend the following books:
 
-- Becoming an Effective Software Engineering Manager, By James Stanier - this the perfect read for a new leader in software engineering. Some of the key takeaways include how to conduct 121s with your team in a way that they will appreciate, how to market your achievements, how to communicate with your manager and how to hit the ground running.
-- The Essential Managers Handbook, By Dorling Kindersley - this book is good for understanding performance improvement plans, SMART objectives, how to create a scoring matrix to make a difficult decision and valuing diversity and many other useful things.
-- Coaching Skills for Leader in the Workplace, By Jackie Arnold - this book explains the GROW (Goals, Reality, Options and What Next) model which is the best coaching model in my opinion and will come in handy in 121s with your team.
-- Mastering the Rockefeller Habits, By Verne Harnish - this book has a great section on cultural values and how to instil them into your team.
+- Becoming an Effective Software Engineering Manager, James Stanier - this the perfect read for a new leader in software engineering. Some of the key takeaways include how to conduct 121s with your team in a way that they will appreciate, how to market your achievements, how to communicate with your manager and how to hit the ground running.
+- The Essential Managers Handbook, Dorling Kindersley - this book is good for understanding performance improvement plans, SMART objectives, how to create a scoring matrix to make a difficult decision and valuing diversity and many other useful things.
+- Coaching Skills for Leader in the Workplace, Jackie Arnold - this book explains the GROW (Goals, Reality, Options and What Next) model which is the best coaching model in my opinion and will come in handy in 121s with your team.
+- Mastering the Rockefeller Habits, Verne Harnish - this book has a great section on cultural values and how to instil them into your team.
 
 While books alone will not teach you everything you need to know, they will certainly provide you with a basic toolkit to get started.
 
