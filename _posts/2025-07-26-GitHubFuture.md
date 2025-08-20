@@ -66,6 +66,8 @@ The big question on your mind then, is can't Azure DevOps (ADO) do these things 
 
 Take static code analysis as an example. Azure DevOps will allow you to enable advanced security which can also include CodeQL, but you have to setup Azure billing to do this as there's a steeper cost involved or you need to buy licenses for tools like SonarQube or Checkmarx. Then there's dependency updates which will require licenses for tools such as Snyk. And finally, secret scanning requires you to link ADO to GibHub's secret scanning - it doesn't come out of the box with ADO.
 
+---
+
 ## Final Thoughts
 
 GitHub’s Security-First Approach Wins. GitHub’s seamless integration of security tools makes it the better choice for teams that prioritize secure, maintainable, and compliant code. Enable GitHub Advanced Security today to see the difference and to save money on buying additional licenses for Azure DevOps.

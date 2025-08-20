@@ -20,11 +20,15 @@ Cultural values should be at the heart of your organisation... and if your organ
 - Posters around your office
 - Desktop background and login images
 
+---
+
 ## Continuous Improvement
 
 Continuous improvement is fundamental in any team. Within my team we hold quarterly retrospectives, as an entire team, to improve software engineering on top of the usual sprint retrospectives. My team use an Azure DevOps add-in called Retrospectives for this session, to record start, stop and continue items, to vote on the issues we feel strongly about and to time the conversations so we don't talk for more than 5 minutes on any one topic. I chose once a quarter retro because it allows for plenty of time to take action - you don't want the team to bring the same issues to a session every week or month to never see any change, because this will lead the team to see no value in the sessions.
 
 Finally, I think that there's something to be said about collecting plenty of data to show the areas where the team can improve and to discuss the data in your weekly check-in meeting discussed above. I collect a lot of data within my team on sprint burndowns, the size of the backlog, office attendance, team feelings, application usage data, ServiceNow ticket resolution times, cycle time..... basically, every piece of data I can get my hands on and the team slowly improve on the data you put in-front of them.
+
+---
 
 ## Continuous Learning
 
@@ -37,6 +41,8 @@ Finally let's talk about continuous learning and I mean for you! As managers we 
 
 As my carpentry teacher explained, "after 30 years in the carpentry business, I'm still learning new techniques from my students" and what I interpret from this, is never accept that you've peaked as a manager and cannot improve on how to lead your team.
 
+---
+
 ## Hiring
 
 I'm unable to disclose all of my hiring advice here, because one of my hires later confessed that they read a post I had written and knew about my technical test beforehand, but I can provide some high-level guidelines:
@@ -47,6 +53,8 @@ I'm unable to disclose all of my hiring advice here, because one of my hires lat
 - Hire someone with a good attitude to life and work. I always say I can teach someone insurance but I can't teach them to have the right attitude.
 - Look for someone that does not constantly hop companies. I favour someone that spends, on average, at least 3 years with most companies they've worked for.
 - Look for someone that shows they invest in their career with extra certifications.
+
+---
 
 ## Harmony
 
@@ -60,6 +68,8 @@ Now that you have some great advice on hiring great people, you will need to cre
 
 This isn't an exhaustive list, but you should find that the above builds better relationships within the workplace.
 
+---
+
 ## Books
 
 Although somewhat naive on reflection, I started reading books about leadership a few years before actually becoming a leader, as preparation. I would definitely recommend the following books:
@@ -70,6 +80,8 @@ Although somewhat naive on reflection, I started reading books about leadership 
 - Mastering the Rockefeller Habits, Verne Harnish - this book has a great section on cultural values and how to instil them into your team.
 
 While books alone will not teach you everything you need to know, they will certainly provide you with a basic toolkit to get started.
+
+---
 
 ## Final Thoughts
 
