@@ -42,7 +42,7 @@ Dependabot is a game-changer for dependency management. It automatically:
 - Opens pull requests to update them
 - Alerts you about known vulnerabilities
 
-Let's see some of the dependency vulnerabilities that it has found. Here it is pointing out problems with Moongoose being out of date:
+Let's see some of the dependency vulnerabilities that it has found. Here it is pointing out problems with Mongoose being out of date:
 
 ![Image]({{ site.baseurl }}/assets/images/Dependabot1.png)
 
