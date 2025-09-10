@@ -48,7 +48,6 @@ Thanks for stopping by—let’s dive in.
 - [DDD Notes - Notes from DDD Reading 2017 to 2020 and DDD South West 2024](_posts/2025-08-03-DDDNotes.md)
 - [GitHub - Why GitHub is the right direction for DevSecOps](_posts/2025-07-26-GitHubFuture.md)
 - [LM1: London Market Essentials 1 - Lessons Learned](_posts/2025-08-02-LM12025.md)
-- [Running a marathon - How to train, what to expect and some pro tips](_posts/2025-08-24-MarathonRunning.md)
 - [Technical Writing: Why Technical Writers Shouldn't Be Overlooked](_posts/2024-12-20-TechnicalWriting.md)
 
 ---
