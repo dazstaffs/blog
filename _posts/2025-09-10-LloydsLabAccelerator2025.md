@@ -64,10 +64,10 @@ So, as I wrap things up for another blog post, let's cover the scenario where yo
 - Insurance Knowledge - it would be advantageous to have passed the LM1 exam, as I have, before attending. Many terms will be thrown around such as wholesale broker, peril, hazard, D&O, E&S, and if you're more technology than insurance, you will be entering with a disadvantage, but don't let that put you off.
 - America and Canada - You will hear a lot of America and Canadian accents and pitches aimed at these markets. Most Lloyd's business comes from the USA. This is why you will hear an English presenter mention OFAC, prices in dollars, Donald Trump and the like.
 - Music - the same music will be played during the breaks and there's many breaks! It's an annoying tune so either bring ear plugs or take a walk.
-- Long Day - If you attend every session and I recommend that you do, it will be a long day, especially if the tube is on-strike as it was for me.
-- You don't need a pen and paper - You will be given a pen and a small book from Lloyds outlining everything from presenters, to the process, and there will be plenty of blank pages at the back of the book.
+- Long Day - If you attend every session and I recommend that you do, it will be a long day, especially if the tube drivers are on-strike as they were for me.
+- You don't need a pen and paper - You will be given a pen and a small book from Lloyds outlining everything from presenters, to the process, and there will be plenty of blank pages at the back of the book, for notes.
 - Tea and coffee are provided and water too. If you stay for the networking session in the evening, I saw beer and wine on-offer as well.
-- 11 is 11.15 - The website may say 11 start, but it's really 11.15. The first 15 mins is for networking.
+- 11 is 11.15 - The website may say 11am start, but it's really 11.15. The first 15 minutes are for networking.
 - ID and bag check - You will need a photo ID and you will have your bag checked.
 - Train strikes but still a large crowd - I thought it would be an empty room because of the tube strikes but nothing could be further from the truth. It was packed and that is testament to the importance of this event.
 - Ask questions - Please ask questions if you attend. It was obvious some presenters didn't understand insurance when certain insurance terms were used, but please do ask some questions, because there are many things that wouldn't have been covered in a 5-minute pitch and the answers will help others score the pitch which helps Lloyds choose who to put through.
