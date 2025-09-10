@@ -5,7 +5,7 @@ date: 2025-08-20
 categories: [leadership]
 ---
 
-Building a great team, is by far the greatest achievement of my career to date. I'm sure some ex-colleagues would argue that the work I did on Harley Davidson's Lead Management System, was pretty special because the user experience was excellent, but building a great team is what I'm most proud of. If you're a new leader, looking for some advice or even an experienced leader perfecting their craft, I'm certainly whiling to share my approach to leadership here and I hope you take something away from reading this article.
+Building a great team, is by far the greatest achievement of my career to date. I'm sure some ex-colleagues would argue that the work I did on Harley Davidson's Lead Management System, was pretty special because the user experience was very good, but building a great team is what I'm most proud of. If you're a new leader, looking for some advice or even an experienced leader perfecting their craft, I'm certainly whiling to share my approach to building a great team, but I wont cover how to be a great leader in this artcile, because that's a whole new topic.
 
 ---
 
@@ -73,7 +73,7 @@ This isn't an exhaustive list, but you should find that the above tips will put 
 
 ---
 
-## Books
+## Further Reading
 
 Although somewhat naive on reflection, I started reading books about leadership a few years before becoming a leader, as preparation. I would definitely recommend the following books:
 
