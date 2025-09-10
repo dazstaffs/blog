@@ -7,7 +7,7 @@ categories: [insurance]
 
 Lloyd's Lab Accelerator Programme is a fantastic initiative from Lloyds. Twice a year, since 2018, hundreds of companies from all over the world, submit proposals to the Lloyd's Lab team, hoping to be one of circa 20 companies to pitch their idea on pitch day and be ultimately chosen as one of ten companies to join the Accelerator programme.
 
-The Accelerator programme yields many benefits to the chosen. Firstly, they are able to use the Lloyd's building as a base for 10 weeks, they have better access to the market, they get assigned 8 to 12 mentors and the numbers from Lloyd's are there for all to see; A success rate, at time of writing, of 97%, 85% are still working with the Lloyd's market and over 1000 jobs have been created by Lloyd's Lab Alumni.
+The Accelerator programme yields many benefits to the chosen. Firstly, they are able to use the Lloyd's building as a base for 10 weeks, they have better access to the market, they get assigned 8 to 12 mentors and the numbers from Lloyd's are there for all to see; A success rate, at the time of writing, of 97%, 85% are still working with the Lloyd's market and over 1000 jobs have been created by Lloyd's Lab Alumni.
 
 This was my first time attending pitch day and I walked away with many insights, thoughts and updates on the market. I would recommend all insurance technologists attend this event at least once, if given the opportunity. In this post I will present my takeaways as an insurance technologist and first-time attendee.
 
@@ -21,17 +21,25 @@ For the companies pitching for Cohort 15, Lloyd's stated 3 themes, before propos
 - Traditional lines for today - Modernising legacy products across marine, property, casualty, speciality lines to meet evolving customer needs.
 - Data intelligence & process transformation - Enhancing Lloyd's market through advanced analytics, AI powered models, and streamlined market operation.
 
-Every proposal we saw fitted within one of these three themes, Albeit more proposals for the final theme and little for traditional lines, but still within these themes. My perspective on the main themes was:
+Every proposal we saw fitted within one of these three themes, albeit more proposals for the final theme and little for traditional lines, but still within these themes. My perspective on the main themes were:
 
-- Excel - Too many companies are citing Excel as being the number one problem across the board in insurance and I agree. Excel brings many issues such as inconsistent processes, inconsistent data that is never cleansed, tampering issues which unsettles auditors, no real-time analytics, data sprawl in that these Excel spreadsheets can live on a person's computer, in multiple locations on shared drives, etc. Many pitches proposed fixing this issue using AI.
-- Artificial Intelligence/Machine Learning (AI/ML) - Every company pitch incorporates AI/ML to some degree. AI/ML is NOT a passing fad, it's here to stay because it REALLY is a game changer. Some common use cases are using it to handle large amounts of Excel spreadsheets and other data to produce some kind of report or insights, some companies are using it to flag certain words/terms (using Large Language Models) as being suspect or adding value and some are just adding agents to their tools to make admin processes more efficient.
-- Internet of Things (IOT) Devices - IOT devices capturing data such as wind strength across the year, combined with large pool of historic data, could yield returns down the line. While it's difficult to ever predict when a catastrophic event will actually occur, IOT devices are being seen more and more in insurance. We're also seeing IOT devices being used with parametric insurance terms to automate the payment of claims and monitor, for example the temperature inside a cargo container that could damage a product above or below a certain threshold. IOT devices were already here, but combined with insurance makes for some exciting times.
+- Excel - Too many companies are citing Excel as being the number one problem across the board in insurance and I agree. Excel brings many issues such as:
+  - Inconsistent processes
+  - Inconsistent data that is never cleansed
+  - Tampering issues which unsettles auditors
+  - No real-time analytics
+  - File sprawl in that these Excel spreadsheets can live on a person's computer, on shared drives, the cloud, etc.
+- Artificial Intelligence/Machine Learning (AI/ML) - Every company pitch incorporates AI/ML to some degree. AI/ML is NOT a passing fad, it's here to stay because it REALLY is a game changer. Some common use cases are:
+  - Handling large amounts of Excel spreadsheets and other data to produce reports or other insights.
+  - To flag certain words/terms (using Large Language Models) as being suspect or adding value.
+  - Adding agents to their tools to make them more efficient.
+- Internet of Things (IOT) Devices - IOT devices capturing data such as wind strength across the year, combined with large pools of historic data, could yield returns down the line. While it's difficult to ever predict when a catastrophic event will actually occur, IOT devices are being used more and more in insurance. We're also seeing IOT devices being used with parametric insurance contracts to automate the payment of claims. IOT devices were already here, but combined with insurance makes for some exciting times.
 
 ---
 
 ## My Favourite Pitches
 
-There were so many good pitches yesterday that it's hard to narrow the pitches down to 3 or 4 that stood out for me. Also worth noting that although I see the value with my Software Engineering and MS Amlin hat on, that doesn't mean other solutions wouldn't be more suitable to other businesses problems.
+There were so many good pitches and it's hard to narrow the pitches down to 3 or 4 that stood out for me. Also worth noting that although I see the value with my Software Engineering and MS Amlin hat on, that doesn't mean other solutions wouldn't be more suitable to other business problems.
 
 - SanctionsIQ - A Lloyd's market-native solution designed to tackle complex Marine Cargo, SanctionsIQ was pitched as a solution to help struggling compliance teams by searching for legislation and sanctions that affects a shipment using LLMs against written policies. Some tough questions were posed around LLM hallucinations, whereby AI makes up sanctions that do not actually exist, but my thoughts are that as long as Retrieval-Augmented Generation (RAG) is used and outputs are verified by humans, this problem can be mitigated.
 - Sustema BASE platform - Sustema's BASE platform, is a platform using AI-powered tools for matching entity CO2 emissions with the regulatory needs of CP10/25. GHG emissions from customers form 77% of all Global Warming. By using BASE, insurers can get estimations on customer CO2 emissions and this shows consideration towards being CP10/25 compliant.
