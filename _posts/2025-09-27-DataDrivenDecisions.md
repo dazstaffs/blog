@@ -2,7 +2,7 @@
 layout: post
 title: "Data Driven Decisions - The value in data-driven decisions, the data I collect and how I use it"
 date: 2025-09-27
-categories: [insurance, data]
+categories: [insurance, data, leadership]
 ---
 
 "...most conference rooms at Google have two projectors. One of them is for video-conferencing with other offices or for projecting meeting notes. The other is for data." says Eric Schmidt in the great book "How Google Works". He goes on to say "We don't seek to convince by saying 'I think.' We convince by saying 'Let me show you.'"
