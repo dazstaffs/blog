@@ -45,6 +45,7 @@ Thanks for stopping by—let’s dive in.
 
 - [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
 - [Building Great Teams - How to build great teams as a new leader](_posts/2025-08-20-BuildingGreatTeams.md)
+- [Data Driven Decisions - The value in data-driven decisions, the data I collect and how I use it](_posts/2025-09-26-DataDrivenDecisions.md)
 - [DDD Notes - Notes from DDD Reading 2017 to 2020 and DDD South West 2024](_posts/2025-08-03-DDDNotes.md)
 - [Excel VLOOKUP - How to?](_posts/2025-09-20-VLookUp.md)
 - [GitHub - Why GitHub is the right direction for DevSecOps](_posts/2025-07-26-GitHubFuture.md)
