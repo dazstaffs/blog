@@ -37,7 +37,6 @@ Thanks for stopping by—let’s dive in.
 - PowerBi - My new best friend for data visualisation
 - ThoughtWorks Tech Radar - How to build your own Tech Radar
 - Uizard - Is this a revolution in rebuilding legacy software
-- Carpentry & Tiling - What I learnt and the parallels with insurance
 
 ---
 
