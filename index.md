@@ -23,6 +23,7 @@ Thanks for stopping by—let’s dive in.
 
 - [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
 - [Azure Target SLAs](https://azurecharts.com/sla)
+- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
 - [Blueprint Two Progress Reports](https://www.velonetic.co.uk/blueprint-two/progress/blueprint-two-progress-reports)
 - [Lloyd's Business Timetable](https://www.lloyds.com/tools-and-systems/business-timetable)
 - [Mitre Att&ck Framework](https://attack.mitre.org/)
