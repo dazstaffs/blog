@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Insurance and AI - Real examples of how AI can shape insurance"
+title: "AI Transforming Insurance - How AI is transforming Insurance in 2025"
 date: 2025-12-31
 categories: [AI, insurance]
 ---
@@ -15,7 +15,7 @@ On a recent 4 hour flight from Tenerife to London, I had time to reflect on the 
 
  ---
 
- ## How does AI actually work?
+## How does AI actually work?
 
  At a technical level, most modern AI (specifically "machine learning") works through a process called training. Imagine teaching a child what a cat is by showing them hundreds of cat pictures. AI learns similarly:
 - Data In: The system is fed massive amounts of data (cat images, in our example)
