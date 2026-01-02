@@ -39,7 +39,7 @@ Every proposal we saw fitted within one of these three themes, albeit more propo
 
 ## My Favourite Pitches
 
-There were so many good pitches and it's hard to narrow the pitches down to 3 or 4 that stood out for me. Also worth noting that although I see the value with my Software Engineering and MS Amlin hat on, that doesn't mean other solutions wouldn't be more suitable to other business problems.
+There were so many good pitches and it's hard to narrow the pitches down to 3 or 4 that stood out for me. Also worth noting that although I see the value with my Insurance Engineering hat on, that doesn't mean other solutions wouldn't be more suitable to other business needs.
 
 - SanctionsIQ - A Lloyd's market-native solution designed to tackle complex Marine Cargo, SanctionsIQ was pitched as a solution to help struggling compliance teams by searching for legislation and sanctions that affects a shipment using LLMs against written policies. Some tough questions were posed around LLM hallucinations, whereby AI makes up sanctions that do not actually exist, but my thoughts are that as long as Retrieval-Augmented Generation (RAG) is used and outputs are verified by humans, this problem can be mitigated.
 - Sustema BASE platform - Sustema's BASE platform, is a platform using AI-powered tools for matching entity CO2 emissions with the regulatory needs of CP10/25. GHG emissions from customers form 77% of all Global Warming. By using BASE, insurers can get estimations on customer CO2 emissions and this shows consideration towards being CP10/25 compliant.
@@ -50,9 +50,9 @@ There were so many good pitches and it's hard to narrow the pitches down to 3 or
 
 ## Emerging Risks
 
-Two new risks were brought to everyone's attention yesterday. The first was PFAS or Per- and polyfluoroalkyl substances, which is a group of man-made chemicals known as "forever chemicals" due to their extreme persistence in the environment and the human body, as they don't break down easily. These chemicals have been widely used since the 1950s in products like non-stick cookware, waterproof clothing, and food packaging for their grease- and water-repellent properties. However, exposure to certain PFAS is linked to serious health effects, including immune system disorders, high cholesterol, and certain cancers. Due to environmental and health concerns, efforts are underway to reduce the production and use of PFAS and to address existing contamination in water and soil. While I did not believe the product pitched by 'Ashes to Gold' yesterday was a good insurance product, I did see how PFAS could "be the next asbestos" and thus could require some investment from insurance companies in the future.
+Two new risks were brought to everyone's attention yesterday. The first was PFAS or Per- and polyfluoroalkyl substances, which is a group of man-made chemicals known as "forever chemicals" due to their extreme persistence in the environment and the human body, as they don't break down easily. These chemicals have been widely used since the 1950s in products like non-stick cookware, waterproof clothing, and food packaging for their grease- and water-repellent properties. However, exposure to certain PFAS is linked to serious health effects, including immune system disorders, high cholesterol, and certain cancers. Due to environmental and health concerns, efforts are underway to reduce the production and use of PFAS and to address existing contamination in water and soil. While I did not believe the product pitched by 'Ashes to Gold' was a good insurance product, I did see how PFAS could "be the next asbestos" and thus could need insurance products in the future.
 
-The second was the already mentioned CP10/25 regulations potentially coming into force in 2026, which while not being a risk or peril, is a hazard and something that insurers will need to invest in for the future. Climate change cannot be swept under the rug and I do think that as insurers we have a responsibility to build a sustainable planet and if CP10/25 regulations are tied to premium costs, will have a positive impact on all businesses, because who wants to pay higher premiums...
+The second was the already mentioned CP10/25 regulations potentially coming into force in 2026, which while not being a risk or peril, is a hazard and something that insurers will need to invest in for the future. Climate change cannot be swept under the rug and I do think that as insurers we have a responsibility to build a sustainable planet.
 
 ---
 
@@ -64,7 +64,7 @@ So, as I wrap things up for another blog post, let's cover the scenario where yo
 - Insurance Knowledge - it would be advantageous to have passed the LM1 exam, as I have, before attending. Many terms will be thrown around such as wholesale broker, peril, hazard, D&O, E&S, and if you're more technology than insurance, you will be entering with a disadvantage, but don't let that put you off.
 - America and Canada - You will hear a lot of America and Canadian accents and pitches aimed at these markets. Most Lloyd's business comes from the USA. This is why you will hear an English presenter mention OFAC, prices in dollars, Donald Trump and the like.
 - Music - the same music will be played during the breaks and there's many breaks! It's an annoying tune so either bring ear plugs or take a walk.
-- Long Day - If you attend every session and I recommend that you do, it will be a long day, especially if the tube drivers are on-strike as they were for me.
+- Long Day - If you attend every session and I recommend that you do, it will be a long day, especially if the tube drivers are on-strike as they were that day.
 - You don't need a pen and paper - You will be given a pen and a small book from Lloyds outlining everything from presenters, to the process, and there will be plenty of blank pages at the back of the book, for notes.
 - Tea and coffee are provided and water too. If you stay for the networking session in the evening, I saw beer and wine on-offer as well.
 - 11 is 11.15 - The website may say 11am start, but it's really 11.15. The first 15 minutes are for networking.
@@ -76,6 +76,6 @@ So, as I wrap things up for another blog post, let's cover the scenario where yo
 
 ## Final Thoughts
 
-Lloyd's Lab Accelerator has been a fantastic initiative from Lloyds since 2018. Attending has helped me understand a lot about insurance trends towards Artificial Intelligence, Machine Learning, Internet of Things but also new risks such as PFAS and the new potential climate regulations. I now eagerly await news of who is entering the 10 week programme and if I'm not made redundant in 10 week’s time (although it's likely I will be), I hope to be at demo day to see the end products.
+Lloyd's Lab Accelerator has been a fantastic initiative from Lloyds since 2018. Attending has helped me understand a lot about insurance trends towards Artificial Intelligence, Machine Learning, Internet of Things but also new risks such as PFAS and the new potential climate regulations. I now eagerly await news of who is entering the 10 week programme and I hope to be at demo day to see the end products.
 
 Thanks for reading!
