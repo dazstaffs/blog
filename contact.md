@@ -39,8 +39,8 @@ permalink: /contact/
   </div>
 
   <div class="contact-note">
-    <p><i class="fas fa-clock"></i> <strong>Timezone:</strong> GMT</p>
-    <p><i class="fas fa-map-marker-alt"></i> <strong>Based in:</strong> London, UK</p>
+    <p><i class="fas fa-clock"></i> <strong>Timezone: </strong>GMT</p>
+    <p><i class="fas fa-map-marker-alt"></i> <strong>Based in: </strong>London, UK</p>
   </div>
 
 </div>
