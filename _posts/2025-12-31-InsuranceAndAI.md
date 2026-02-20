@@ -30,16 +30,19 @@ On a recent 4 hour flight from Tenerife to London, I had time to reflect on the 
 From a business perspective therefore we can use AI to do the following:
 
 - Extract information from text
+- Generate recommendations
 - Convert text to speech
 - Convert speech to text
-- Predict values
-- Generate recommendations
+- Make predictions
+- Detect anomalies and including fraud
 - Discover structure
-- Find unusual occurences
 - Categorise by one or more categories
+- Extract information from images
 - Classify images
+- Analyse images
 - Process large amounts of data 24/7
 - Communicate with customers 24/7
+- Take action using workflows
 
 ---
 
@@ -49,11 +52,11 @@ Let's break this question down in the various departments in insurance.
 
 ### Claims
 
-AI has transformed the claims department, the critical "store-front" of the insurance journey into a seamless, 24/7 empathetic operation. Because this is the moment where customers decide their future loyalty, insurers are using AI voice agents to provide instant support 24 hours a day, 365 days a year. Built on scalable cloud technology, these agents handle high volumes of basic inquiries without the frustration of call queues, ensuring that policyholders feel heard and supported in their time of need while allowing human handlers to focus on the most sensitive, high-value cases.
+AI has transformed the claims department, the critical "store-front" of the insurance journey into a seamless, 24/7 empathetic operation. This is the moment where customers decide their future loyalty and insurers are using AI voice agents to provide instant support 24 hours a day, 365 days a year. Built on scalable cloud technology, these agents handle high volumes of basic inquiries without the frustration of call queues, ensuring that policyholders feel heard and supported in their time of need while allowing human handlers to focus on the most sensitive, high-value cases.
 
 The integration of advanced image recognition further accelerates this process by assisting loss adjusters in virtually assessing the cause and extent of damages. By analysing photos and videos in real-time, AI ensures that payouts are both fair and accurate, acting as a neutral representative to validate claims. 
 
-Beyond the initial settlement, AI optimizes the subrogation process by scanning legal databases and past litigation to identify third-party liabilities and predict potential court awards. This end-to-end automation not only keeps costs down for the insurer but significantly enhances the customer experience by delivering a faster, more transparent path to recovery.
+Beyond the initial settlement, AI optimises the subrogation process by scanning legal databases and past litigation to identify third-party liabilities and predict potential court awards. This end-to-end automation not only keeps costs down for the insurer but significantly enhances the customer experience by delivering a faster, more transparent path to recovery.
 
 ### Underwriting
 
@@ -73,15 +76,15 @@ Furthermore, AI enhances the rigor of Realistic Disaster Scenarios (RDS) by gene
 
 ### Reserving
 
-AI has moved beyond simple automation to fundamentally redefine the actuarial function of reserving. By utilizing machine learning algorithms like gradient boosting and neural networks, insurers are now able to calculate reserving amounts and allocate capacity by Line of Business (LOB) with far greater precision. Unlike traditional "chain-ladder" methods that rely heavily on historical averages, AI identifies non-linear patterns across thousands of data points—including real-time claims development and structural market shifts allowing for more accurate, segment-specific reserve setting. 
+AI has moved beyond simple automation to fundamentally redefine the actuarial function of reserving. By utilising machine learning algorithms like gradient boosting and neural networks, insurers are now able to calculate reserving amounts and allocate capacity by Line of Business (LOB) with far greater precision. Unlike traditional "chain-ladder" methods that rely heavily on historical averages, AI identifies non-linear patterns across thousands of data points including real-time claims development and structural market shifts allowing for more accurate, segment-specific reserve setting. 
 
-A critical breakthrough is in the management of Incurred But Not Reported (IBNR) claims. AI-powered models excel at "quantifying uncertainty" by analysing unstructured data from claim notes and social signals to flag adverse trends earlier than manual reviews. This proactive approach reduces the risk of "reserve surprises" and ensures that insurers maintain the correct capital capacity to remain solvent. By integrating these predictive insights into the core of their operations, insurers can optimize their capital deployment across different portfolios, ensuring they have the liquidity to meet future obligations while remaining competitive in a volatile global market.
+A critical breakthrough is in the management of Incurred But Not Reported (IBNR) claims. AI-powered models excel at "quantifying uncertainty" by analysing unstructured data from claim notes and social signals to flag adverse trends earlier than manual reviews. This proactive approach reduces the risk of "reserve surprises" and ensures that insurers maintain the correct capital capacity to remain solvent. By integrating these predictive insights into the core of their operations, insurers can optimise their capital deployment across different portfolios, ensuring they have the liquidity to meet future obligations while remaining competitive in a volatile global market.
 
 ### Broking
 
-AI is fundamentally reshaped the brokering landscape, enabling brokers to act as sophisticated strategic advisors rather than mere intermediaries. By leveraging advanced data scraping and natural language processing, brokers can now present risks to underwriters with unparalleled clarity, providing "neatly packaged" submissions that highlight salient points and summarize complex financial data. This granular level of insight allows brokers to advocate for the best terms and conditions for the insured, moving away from one-size-fits-all coverage to hyper-personalized policies that precisely match a client's specific behavioral and risk profile. 
+AI is fundamentally reshaped the brokering landscape, enabling brokers to act as sophisticated strategic advisors rather than mere intermediaries. By leveraging advanced data scraping and natural language processing, brokers can now present risks to underwriters with unparalleled clarity, providing "neatly packaged" submissions that highlight salient points and summarise complex financial data. This granular level of insight allows brokers to advocate for the best terms and conditions for the insured, moving away from one-size-fits-all coverage to hyper-personalised policies that precisely match a client's specific behavioral and risk profiles. 
 
-Furthermore, AI-driven specialised tools now assist in creating the best T&Cs for Terms of Business Agreements (TOBAs), ensuring these critical contracts are optimised for transparency and compliance while clearly defining responsibilities between brokers and providers. Brokers also use AI to interact more effectively with rating agencies, utilising predictive analytics to demonstrate the long-term stability and strength of their portfolios. By marrying computational power with human judgment, brokers in 2025 are not only improving operational efficiency but are also ensuring their clients receive fairer pricing and more robust protection in an increasingly volatile market.
+Furthermore, AI-driven specialised tools now assist in creating the best T&Cs for Terms of Business Agreements (TOBAs), ensuring these critical contracts are optimised for transparency and compliance while clearly defining responsibilities between brokers and providers. Brokers also use AI to interact more effectively with rating agencies, utilising predictive analytics to demonstrate the long-term stability and strength of their portfolios. By marrying computational power with human judgment, brokers are not only improving operational efficiency but are also ensuring their clients receive fairer pricing.
 
 ### Reinsurance
 
@@ -105,4 +108,4 @@ The journey of AI in insurance is no longer one of speculative potential but of 
 
 The true power of AI lies in this synthesis: the relentless, pattern-finding capacity of machines combined with the nuanced understanding and ethical oversight of human experts. For insurers, this means unprecedented efficiency, accuracy, and resilience. For brokers, it means the ability to offer truly bespoke advocacy. And most importantly, for policyholders, it translates to faster, fairer, and more transparent service when they need it most.
 
-The transition is complex, demanding careful attention to data quality, model governance, and regulatory compliance. Yet, the direction is clear. The insurers and brokers who thrive will be those who lean into this partnership, using AI not just to automate, but to intelligently underwrite the future.
+The transition is complex, demanding careful attention to data quality, model governance, and regulatory compliance. The insurers and brokers who thrive will be those who lean into this partnership, using AI not just to automate, but to intelligently underwrite the future.

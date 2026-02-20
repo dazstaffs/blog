@@ -44,6 +44,7 @@ Thanks for stopping by—let’s dive in.
 ## 🔁 Previous Posts - A-Z
 
 - [AI Transforming Insurance - How AI is transforming Insurance in 2025](_posts/2025-12-31-InsuranceAndAI.md)
+- [AI-900 Microsoft Azure AI Fundamentals - Key Takeaways](_posts/2026-02-20-AI900.md)
 - [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
 - [Building Great Teams - How to build great teams as a new leader](_posts/2025-08-20-BuildingGreatTeams.md)
 - [Data Driven Decisions - The value in data-driven decisions, the data I collect and how I use it](_posts/2025-09-27-DataDrivenDecisions.md)
@@ -53,4 +54,3 @@ Thanks for stopping by—let’s dive in.
 - [Lloyd's Lab Accelerator Pitches (Cohort 15) - A technologist's view](_posts/2025-09-10-LloydsLabAccelerator2025.md)
 - [LM1: London Market Essentials 1 - Lessons Learned](_posts/2025-08-02-LM12025.md)
 
----
