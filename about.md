@@ -50,8 +50,11 @@ permalink: /about/
       <p>Bournemouth University | 2:1 | 2007</p>
     </div>
     <div class="certifications">
-      <h3>Recent Certifications:</h3>
+      <h3>Certifications:</h3>
       <ul>
+        <li>AI-900: Microsoft Azure AI Fundamentals (2026)</li>
+        <li>LM2: London Market Insurance Principles & Practices (2025)</li>
+        <li>LM1: London Market Insurance Essentials (2025)</li>
         <li>AZ-900: Microsoft Azure Fundamentals (2025)</li>
         <li>DSDM Agile Project Management Practitioner (2017)</li>
         <li>PRINCE2 Foundation (2014)</li>
