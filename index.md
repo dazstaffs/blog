@@ -54,4 +54,5 @@ Thanks for stopping by—let’s dive in.
 - [Lloyd's Lab Accelerator Pitches (Cohort 15) - A technologist's view](_posts/2025-09-10-LloydsLabAccelerator2025.md)
 - [LM1: London Market Essentials 1 - Lessons Learned](_posts/2025-08-02-LM12025.md)
 - [Troubleshooting Azure Container to Webapp Load Issues](_posts/2026-02-28-DeployingContainerToWebApp.md)
+- [Troubleshooting Azure Quote Issues](_posts/2026-02-28-AzureQuoteIssues.md)
 
