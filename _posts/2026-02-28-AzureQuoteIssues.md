@@ -5,7 +5,7 @@ date: 2026-02-28
 categories: [azure]
 ---
 
-Here is the scenario - you're trying to create a Web App in Azure, possibly in the 'UKSouth' region but you keep getting this Azure Quote error when you press create:
+Here is the scenario - you're trying to create a Web App in Azure, possibly in the 'UKSouth' region but you keep getting this Azure quota error when you press create:
 
 ![Image]({{ site.baseurl }}/assets/images/Additional_Quota_Reqd.png)
 
