@@ -31,16 +31,6 @@ Thanks for stopping by—let’s dive in.
 
 ---
 
-## 🗓️ Coming Soon
-
-- Measure What Matters - A review of John Doerr's famous book
-- Mermaid diagrams - How they helped me unravel a complex process
-- PowerBi - My new best friend for data visualisation
-- ThoughtWorks Tech Radar - How to build your own Tech Radar
-- Uizard - Is this a revolution in rebuilding legacy software
-
----
-
 ## 🔁 Previous Posts - A-Z
 
 - [AI Transforming Insurance - How AI is transforming Insurance in 2025](_posts/2025-12-31-InsuranceAndAI.md)
