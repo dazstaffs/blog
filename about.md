@@ -7,7 +7,7 @@ permalink: /about/
 <div class="about-page">
   <section class="about-section">
     <h2>Professional Profile</h2>
-    <p>Experienced Applications Delivery Manager and Software Engineering leader with 7+ years in insurance technology, specializing in modernizing legacy systems, implementing Azure cloud solutions, and leading high-performing engineering teams. Proven track record in strategic transformation, cost optimization, and delivering complex insurance platforms.</p>
+    <p>Experienced Applications Delivery Manager and Software Engineering leader with 7+ years in insurance technology, specialising in modernizing legacy systems, implementing Azure cloud solutions, and leading high-performing engineering teams. Proven track record in strategic transformation, cost optimization, and delivering complex insurance platforms.</p>
   </section>
 
   <section class="about-section">
