@@ -2,7 +2,7 @@
 layout: post
 title: "Lloyd's Lab Accelerator Pitches (Cohort 15) - A technologist's view"
 date: 2025-09-10
-categories: [insurance]
+categories: [Insurance]
 ---
 
 Lloyd's Lab Accelerator Programme is a fantastic initiative from Lloyds. Twice a year, since 2018, hundreds of companies from all over the world, submit proposals to the Lloyd's Lab team, hoping to be one of circa 20 companies to pitch their idea on pitch day and be ultimately chosen as one of ten companies to join the Accelerator programme.

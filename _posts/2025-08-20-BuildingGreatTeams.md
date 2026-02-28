@@ -2,7 +2,7 @@
 layout: post
 title: "Building Great Teams - How to build great teams as a new leader"
 date: 2025-08-20
-categories: [leadership]
+categories: [Leadership]
 ---
 
 Building a great team, is by far the greatest achievement of my career to date. I'm sure some ex-colleagues would argue that the work I did on Harley Davidson's Lead Management System, was pretty special because the user experience was very good, but building a great team is what I'm most proud of. If you're a new leader, looking for some advice or even an experienced leader perfecting their craft, I'm certainly whiling to share my approach to building a great team, but I wont cover how to be a great leader in this artcile, because that's a whole new topic.

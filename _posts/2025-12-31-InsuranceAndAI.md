@@ -2,7 +2,7 @@
 layout: post
 title: "AI Transforming Insurance - How AI is transforming Insurance in 2025"
 date: 2025-12-31
-categories: [AI, insurance]
+categories: [AI, Insurance]
 ---
 
 On a recent 4 hour flight from Tenerife to London, I had time to reflect on the London Market Insurance exams that I passed this year and how AI intersects with Insurance as a whole. In this blog entry and while fully acknowledging that this is a complex discussion point, I shall try to explain what AI is at a high level, what AI can do and then give real examples of how this applies to insurance, while not boring any of my readers.

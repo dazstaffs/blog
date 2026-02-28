@@ -2,7 +2,7 @@
 layout: post
 title: "Troubleshooting Azure Container to Webapp Load Issues"
 date: 2026-02-28
-categories: [azure]
+categories: [Azure]
 ---
 
 Here is the scenario - you've created an Azure Container Registry, you've created a web application in Visual Studios, you've deployed this application to your registry and you want to deploy from the registry to an Azure Web App because of all the lovely benefits it brings. Upon deploying your application, the web page doesn't load, it spins around and around and you think you've made a mistake somewhere along the way. You've followed all the steps correctly, Azure Co-pilot sends you in loops and to webpages that are completely irrelevant and before you know it, you've wasted 8 hours of your life troubleshooting the problem.

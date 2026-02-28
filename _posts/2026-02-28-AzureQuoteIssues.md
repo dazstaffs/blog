@@ -2,7 +2,7 @@
 layout: post
 title: "Troubleshooting Azure Quote Issues"
 date: 2026-02-28
-categories: [azure]
+categories: [Azure]
 ---
 
 Here is the scenario - you're trying to create a Web App in Azure, possibly in the 'UKSouth' region but you keep getting this Azure quota error when you press create:

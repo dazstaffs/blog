@@ -2,7 +2,7 @@
 layout: post
 title: "GitHub - Why GitHub is the right direction for DevSecOps"
 date: 2025-07-26
-categories: [devsecops]
+categories: [DevSecOps]
 ---
 
 When it comes to modern DevOps platforms, GitHub stands out as a superior choice compared to Azure DevOps—especially for teams focused on security, dependency management, and automated code analysis. With features like CodeQL, Dependabot, and license scanning, GitHub provides a more robust and integrated experience for keeping your code secure.
