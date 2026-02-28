@@ -5,7 +5,7 @@ date: 2026-02-28
 categories: [azure]
 ---
 
-Here is the scenario - you've created an Azure Container Registry, you've created a web application in Visual Studios, you've deployed this application to your registry and you want to deploy from the registry to an Azure Web App because of all the lovely benefits it brings. Upon deploying your application, the web pages doesn't load, it spins around and around and you think you've made a mistake somewhere along the way. You've followed all the steps correctly, Azure Co-pilot sends you in loops and to webpages that are completely irrelevant and before you know it, you've wasted 8 hours of your life troubleshooting the problem.
+Here is the scenario - you've created an Azure Container Registry, you've created a web application in Visual Studios, you've deployed this application to your registry and you want to deploy from the registry to an Azure Web App because of all the lovely benefits it brings. Upon deploying your application, the web page doesn't load, it spins around and around and you think you've made a mistake somewhere along the way. You've followed all the steps correctly, Azure Co-pilot sends you in loops and to webpages that are completely irrelevant and before you know it, you've wasted 8 hours of your life troubleshooting the problem.
 
 Well in this post I am going to provide you with the fix and explain why this is happening. 
 
@@ -13,7 +13,7 @@ Well in this post I am going to provide you with the fix and explain why this is
 
 ### 1. **The Fix**
 
-For those who have no interest in understanding the why, let's jump to the fix. Open your Azure Web Application > Settings > Environment Variables > Add. Name = "WEBSITES_PORT", value is whatever port you binded your application to in your docker file. If you created your web app using Visual Studios, it's probably 8080 and 8081, so add 8080 to the value. 
+For those who have no interest in understanding the why, let's jump to the fix. Open your Azure Web Application > Settings > Environment Variables > Add. Name = "WEBSITES_PORT", value is whatever port you bound the application to in the docker file. If you created the web app using Visual Studios, it's probably 8080 and 8081, but as Webapps can only support one port, add 8080 to the value. 
 
 ![Image]({{ site.baseurl }}/assets/images/8080PortBindinginVS.png)
 
