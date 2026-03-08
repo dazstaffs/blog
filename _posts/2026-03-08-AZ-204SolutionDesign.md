@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AZ-204 Solution Design"
+title: "AZ-204 Microsoft Certified Azure Associate Developer - My Solution Design"
 date: 2026-03-08
 categories: [Azure]
 ---
@@ -23,11 +23,13 @@ With the above design considerations factored in, here is a high-level design.
 
 ### Design Notes ##
 
-This first draft will evolve over-time as I add more Azure PaaS offerings into the design. The design doesn't cover the three pillars of observability, idempotence or design patterns, but as I cover each individual phase in other blog posts, I will add the low-level design elements there.
+This first draft will evolve over-time as I add more Azure PaaS offerings into the design. This design doesn't cover the three pillars of observability, idempotence, scalability, security or design patterns, but as I cover each individual phase in other blog posts, I will add the low-level design elements there.
 
 ## Final Thoughts ##
 
 This wraps the first blog post in a series of posts. I will enjoy the process and learning opportunities that this solution will bring. Join me in the next post, where we will build a front-end/user interface.
+
+What do you think about my initial design? I'm always open to feedback, so please do get in-touch via LinkedIn, Email, etc. Links can be found on my contact page.
 
 
 

@@ -34,8 +34,9 @@ Thanks for stopping by—let’s dive in.
 ## 🔁 Previous Posts - A-Z
 
 - [AI Transforming Insurance - How AI is transforming Insurance in 2025](_posts/2025-12-31-InsuranceAndAI.md)
-- [AI-900 Microsoft Azure AI Fundamentals - Key Takeaways](_posts/2026-02-20-AI900.md)
-- [AZ-900 Microsoft Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
+- [AI-900 Microsoft Certified Azure AI Fundamentals - Key Takeaways](_posts/2026-02-20-AI900.md)
+- [AZ-900 Microsoft Certified Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
+- [AZ-204 Microsoft Certified Azure Associate Developer - My Solution Design](_posts/2026-03-08-AZ-204SolutionDesign.md)
 - [Building Great Teams - How to build great teams as a new leader](_posts/2025-08-20-BuildingGreatTeams.md)
 - [Data Driven Decisions - The value in data-driven decisions, the data I collect and how I use it](_posts/2025-09-27-DataDrivenDecisions.md)
 - [DDD Notes - Notes from DDD Reading 2017 to 2020 and DDD South West 2024](_posts/2025-08-03-DDDNotes.md)
