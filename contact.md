@@ -20,14 +20,6 @@ permalink: /contact/
       <a href="mailto:darren-stafford@hotmail.co.uk">darren-stafford@hotmail.co.uk</a>
     </div>
 
-    <!-- <div class="contact-card">
-      <div class="contact-icon">
-        <i class="fas fa-phone"></i>
-      </div>
-      <h3>Phone</h3>
-      <a href="tel:+4407904757336">(+44) 07904757336</a>
-    </div> -->
-
     <div class="contact-card">
       <div class="contact-icon">
         <i class="fab fa-linkedin"></i>
