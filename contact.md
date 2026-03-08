@@ -7,7 +7,6 @@ permalink: /contact/
 <div class="contact-page">
 
   <header class="contact-header">
-    <h1>Contact Darren Stafford</h1>
     <p>Feel free to reach out through any of the channels below</p>
   </header>
 
