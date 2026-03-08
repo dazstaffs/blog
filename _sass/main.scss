@@ -167,15 +167,14 @@ img{
       display: none;
     }
 
-
     .nav {
-      float: none;
-      text-align: center;
+      float: none !important;
+      text-align: center !important;
     }
 
     .nav a {
-      display: inline-block;
-      margin: 0 10px;
+      display: inline-block !important;
+      margin: 0 10px !important;
     }
 
   }
