@@ -7,9 +7,9 @@ list_title: 🔁 All Posts
 
 ## 👋 Welcome to my Blog!
 
-Hi there! I’m Darren Stafford, a seasoned software engineering professional with a career spanning across many diverse industries, from Insurance (since 2018) and Pharmaceuticals and from small start-ups and large corporations.
+Hi. I’m Darren Stafford, a seasoned software engineering professional with a career spanning across many diverse industries, from Pharmaceuticals to Insurance and from small start-ups to large corporations.
 
-My journey started in IT Service Management, evolved through hands-on technical work, and led me to my previous role as a Head of Software Engineering in insurance. Along the way, I’ve gathered many insights and lessons of which I’m excited to share here.
+My journey started in IT Service Management, evolved through hands-on technical work, and led me to my previous role as a Head of Software Engineering for MS Amlin Business Services. Along the way, I’ve gathered many insights and lessons of which I’m excited to share here.
 
 This blog will cover everything from software engineering best practices and IT leadership to industry-specific tech challenges. Whether you’re a fellow IT pro, a curious learner, or just passing through, I hope you find something valuable here.
 

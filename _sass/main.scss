@@ -95,14 +95,18 @@ img{
   }
 
   @media (max-width: 768px) {
-    .nav{
-      float: none !important;
-      text-align: center !important;
-    }
+      .header {
+    text-align: center;
+  }
 
-    h1{
-      text-align: center;
-    }
+  .header h1 {
+    display: block;
+  }
+
+  .header .nav {
+    float: none;
+    margin-top: 1rem;
+  }
   }
 }
 
