@@ -167,9 +167,17 @@ img{
       display: none;
     }
 
-    .nav{
+
+    .nav {
+      float: none;
       text-align: center;
     }
+
+    .nav a {
+      display: inline-block;
+      margin: 0 10px;
+    }
+
   }
 }
 
