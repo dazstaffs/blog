@@ -19,7 +19,7 @@ The first thing that is important to recognise, when designing a high-level arch
 
 With the above design considerations factored in, here is a high-level design. 
 
-![Image]({{ site.baseurl }}/assets/images/ArchitectureDiagram.png)
+![Image]({{ site.baseurl }}/assets/images/AZ204ArchitectureDesign.png)
 
 ---
 
