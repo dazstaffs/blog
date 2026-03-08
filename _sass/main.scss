@@ -150,6 +150,7 @@ img{
       transform: scale(1.05);
     }
   }
+}
 
   @media (max-width: 768px) {
     &-left, &-right {
@@ -171,9 +172,8 @@ img{
       float: none;
       text-align: center;
     }
-
   }
-}
+
 
 // Main Content
 .main-content {
