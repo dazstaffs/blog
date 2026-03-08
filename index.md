@@ -11,9 +11,9 @@ Hi there! I’m Darren Stafford, a seasoned software engineering professional wi
 
 My journey started in IT Service Management, evolved through hands-on technical work, and led me to my previous role as a Head of Software Engineering in insurance. Along the way, I’ve gathered many insights and lessons of which I’m excited to share here.
 
-This blog will cover everything from software engineering best practices and IT leadership to industry-specific tech challenges. Whether you’re a fellow IT pro, a curious learner, or just passing through, I hope you find something valuable here!
+This blog will cover everything from software engineering best practices and IT leadership to industry-specific tech challenges. Whether you’re a fellow IT pro, a curious learner, or just passing through, I hope you find something valuable here.
 
-Thanks for stopping by.
+Thanks for stopping by!
 
 **– Darren**
 
