@@ -106,10 +106,6 @@ img{
       display: block;
       text-align: center;
     }
-
-    .sidebar-left{
-      display: none;
-    }
   }
 }
 
@@ -182,6 +178,10 @@ img{
     }
 
     .widget{
+      display: none;
+    }
+
+    .sidebar-left{
       display: none;
     }
   }
