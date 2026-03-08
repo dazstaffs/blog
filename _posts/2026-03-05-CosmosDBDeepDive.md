@@ -23,7 +23,7 @@ With the above design considerations factored in, here is a high-level design.
 
 ### Design Notes ##
 
-This first draft will evolve over-time as I add more Azure PaaS offerings into the design. The design doesn't cover the three pillars of observability, idempotence or design patterns, but as I cover each individual stage in other blog posts, I will add those details there covering low-level design.
+This first draft will evolve over-time as I add more Azure PaaS offerings into the design. The design doesn't cover the three pillars of observability, idempotence or design patterns, but as I cover each individual phase in other blog posts, I will add the low-level design elements there.
 
 ## Final Thoughts ##
 
