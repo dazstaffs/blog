@@ -5,38 +5,51 @@ date: 2026-03-08
 categories: [Azure]
 ---
 
-I have three goals for March/April. The first is to find a new job, the second is to pass exam AZ-204: Microsoft Certified Azure Associate Developer and the third is to produce more articles for my blog. 
+I have three goals for March and April. The first is to find a new job, the second is to pass the AZ-204: Microsoft Certified Azure Developer Associate exam, and the third is to publish more articles on my blog.
 
-With this in-mind, developing an Azure solution that helps me customise my CV against a job description and utilises all the technologies in the AZ-204 exam curriculum, will assist with these goals. It will certainly lead to many blog posts.
+With these goals in mind, developing an Azure-based solution that helps customise my CV against a job description while also utilising technologies covered in the AZ-204 exam curriculum, would be many bird with one stone. It will also provide plenty of opportunities for future blog posts.
 
-In this blog post, I will start by looking at high-level architecture for this solution. 
+In this article, I will begin by exploring the high-level architecture for this solution.
 
 ---
 
-## High-Level Architecture ##
+## High-Level Architecture
 
-The first thing that is important to recognise, when designing a high-level architecture is that I am trying to use all the technologies on the AZ-204 curriculum. Therefore, some design choice, may not be the best technologies choices. SQL Server, for example is a technology that I have worked-with for my entire career but doesn't feature on the AZ-204 exam. Azure Static Web Apps(SWAs), are also not featured on the AZ-204 exam but are a technology I would use to host my user interface, because of the way they are globally distributed like a Content Delivery Network, highly secure and in many scenarios, a cost-effective way to host a JavaScript-based front-end. 
+When designing a high-level architecture for this project, an important consideration is that I am intentionally trying to incorporate technologies from the AZ-204 curriculum. As a result, some design decisions may not necessarily represent the technologies I would choose in a typical production environment.
 
-With the above design considerations factored in, here is a high-level design. 
+For example, SQL Server is a technology I have worked with throughout my career, but it does not feature prominently in the AZ-204 exam. Instead, other Azure-native data services are emphasised.
+
+Similarly, Azure Static Web Apps (SWA) is not explicitly covered in the AZ-204 curriculum. However, it is a service I would normally use to host the user interface because it provides global distribution similar to a Content Delivery Network, strong built-in security, and is often a cost-effective solution for hosting JavaScript-based front-end applications.
+
+Taking these considerations into account, the following diagram shows the initial high-level architecture for the solution.
 
 ![Image]({{ site.baseurl }}/assets/images/AZ204ArchitectureDesign.png)
 
 ---
 
-## Design Notes ##
+## Design Notes
 
-This first draft will evolve over-time as I add more Azure PaaS offerings into the design. This design doesn't cover the three pillars of observability, idempotence, scalability, security or design patterns, but as I cover each individual phase in other blog posts, I will add the low-level design elements there.
+This first draft of the architecture will evolve over time as I incorporate additional Azure Platform-as-a-Service (PaaS) offerings into the design.
+
+At this stage, the architecture does not yet address several important architectural concerns such as:
+
+- observability  
+- idempotency  
+- scalability  
+- security  
+- architectural design patterns  
+
+As the solution develops and I cover each phase in future blog posts, I will introduce these lower-level design considerations in more detail.
 
 ---
 
-## Final Thoughts ##
+## Final Thoughts
 
-This wraps the first blog post in a series of posts. I will enjoy the process and learning opportunities that this solution will bring. Join me in the next post, where we will build a front-end/user interface.
+This concludes the first post in what will become a series documenting the development of this solution.
 
-What do you think about my initial design? I'm always open to feedback, so please do get in-touch via LinkedIn, Email, etc. Links can be found on my contact page.
+I am looking forward to the learning opportunities this project will provide and to sharing that journey through future articles. In the next post, I will begin building the front-end user interface.
 
-
-
+If you have any thoughts on this initial design, I would welcome your feedback. Please feel free to get in touch via LinkedIn, email, or any of the other channels listed on my contact page.
  
 
 
