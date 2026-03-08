@@ -177,7 +177,7 @@ img{
       height: 120px;
     }
 
-    .widget, .sidebar-left, .sidebar-right{
+    .widget{
       display: none;
     }
   }
@@ -592,5 +592,9 @@ img{
 @media (max-width: 600px) {
   .contact-cards {
     grid-template-columns: 1fr;
+  }
+
+  .sidebar{
+    display: none;
   }
 }
