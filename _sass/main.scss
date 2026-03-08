@@ -93,6 +93,13 @@ img{
       }
     }
   }
+
+  @media (max-width: 768px) {
+    .header .nav{
+      float: none !important;
+      text-align: center !important;
+    }
+  }
 }
 
 // Sidebars
@@ -166,12 +173,6 @@ img{
     .widget{
       display: none;
     }
-
-    .header .nav{
-      float: none !important;
-      text-align: center !important;
-    }
-
   }
 }
 
