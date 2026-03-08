@@ -78,7 +78,6 @@ permalink: /about/
 
   <div class="cta-buttons">
     <a href="{{ site.baseurl }}/contact" class="btn-primary">Contact Me</a>
-    <a href="https://www.linkedin.com/in/darren-stafford" target="_blank" class="btn-secondary">View LinkedIn</a>
   </div>
 
 </div>
