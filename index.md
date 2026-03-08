@@ -15,7 +15,7 @@ This blog will cover everything from software engineering best practices and IT 
 
 Thanks for stopping by!
 
-**– Darren**
+**Darren**
 
 ---
 
