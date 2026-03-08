@@ -5,7 +5,7 @@ date: 2025-07-25
 list_title: 🔁 All Posts
 ---
 
-## 🌟 Welcome to my Blog!
+## 👋 Welcome to my Blog!
 
 Hi there! I’m Darren Stafford, a seasoned IT professional with a career spanning over 16 years (since 2007) across diverse industries — from Insurance (since 2018) and Pharmaceuticals, to leadership roles in tech.
 
