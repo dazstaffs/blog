@@ -110,7 +110,18 @@ img{
       display: block;
       text-align: center;
     }
+
+    h1 img{
+      width: 50px;
+      height: 50px;
+      border-radius: 50%;
+      border: 2px solid $primary-light;
+      box-shadow: $shadow;
+      margin: 0 auto 1.5rem;
+      display: block;
+      transition: all 0.3s ease;
   }
+}
 }
 
 // Sidebars
