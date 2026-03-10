@@ -108,13 +108,14 @@ img{
       display: flex;
       align-items: center;
       justify-content: center;
-      gap: 10px;
+      gap: 8px;
+      font-size: 1rem;
     }
 
     h1 img{
       display: inline-block !important;
-      width: 50px;
-      height: 50px;
+      height: 1rem;
+      width: 1rem;
       border-radius: 50%;
       border: 2px solid $primary-light;
       box-shadow: $shadow;
