@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Blog Home"
+title: "Home"
 date: 2025-07-25
 list_title: 🔁 All Posts
 ---

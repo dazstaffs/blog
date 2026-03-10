@@ -77,6 +77,10 @@ img{
     color: $light-text;
   }
 
+  .site-title.profile-img-header{
+    display: none;
+  }
+
   .nav {
     gap: 1.5rem;
     margin-top: 1rem;
