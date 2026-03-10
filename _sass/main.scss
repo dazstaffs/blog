@@ -107,7 +107,7 @@ img{
     h1 {
       margin: 0;
       font-size: 2rem;
-      display: block;
+      display: inline;
       text-align: center;
     }
 
@@ -117,11 +117,10 @@ img{
       border-radius: 50%;
       border: 2px solid $primary-light;
       box-shadow: $shadow;
-      margin: 0 auto 1.5rem;
-      display: block;
+      display: inline;
       transition: all 0.3s ease;
+    }
   }
-}
 }
 
 // Sidebars
