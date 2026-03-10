@@ -9,25 +9,40 @@ list_title: 🔁 All Posts
 
 Hi. I’m Darren Stafford, a seasoned software engineering professional with a career spanning across many diverse industries, from Pharmaceuticals to Insurance and from small start-ups to large corporations.
 
-My journey started in IT Service Management, evolved through hands-on technical work, and led me to my previous role as a Head of Software Engineering for MS Amlin Business Services. Along the way, I’ve gathered many insights and lessons of which I’m excited to share here.
+My journey started in IT Service Management, evolved through hands-on technical work, and led me to my previous role as the Head of Software Engineering for a top 10 insurance underwriter. Along the way, I’ve gathered many insights and lessons of which I’m excited to share here.
 
 This blog will cover everything from software engineering best practices and IT leadership to industry-specific tech challenges. Whether you’re a fellow IT pro, a curious learner, or just passing through, I hope you find something valuable here.
 
-Thanks for stopping by!
+Thanks for stopping by,
 
 **Darren**
 
 ---
 
-## 🔗 Quick Resources
+## 📍 Blog Code of Conduct
 
-- [Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)
-- [Azure Target SLAs](https://azurecharts.com/sla)
-- [Azure Well-Architected Framework](https://learn.microsoft.com/en-us/azure/well-architected/)
-- [Blueprint Two Progress Reports](https://www.velonetic.co.uk/blueprint-two/progress/blueprint-two-progress-reports)
-- [Lloyd's Business Timetable](https://www.lloyds.com/tools-and-systems/business-timetable)
-- [Mitre Att&ck Framework](https://attack.mitre.org/)
-- [ThoughtWorks Technology Radar](https://www.thoughtworks.com/en-gb/radar)
+I would like to outline my personal code of conduct for my blog:
+
+1. **No names.**  
+   People are never identified.
+
+2. **No company call-outs.**  
+   Organisations are kept anonymous.
+
+3. **Privacy first.**  
+   Identifying details may be removed or changed.
+
+4. **Ideas over individuals.**  
+   The focus is on patterns, systems, and lessons.
+
+5. **Experience, not accusation.**  
+   Posts describe observations and personal experiences.
+
+6. **Clarity over noise.**  
+   Unnecessary details are stripped away.
+
+7. **Accuracy over speed.**  
+   Thoughtful writing beats fast publishing.
 
 ---
 
@@ -36,7 +51,7 @@ Thanks for stopping by!
 - [AI Transforming Insurance - How AI is transforming Insurance in 2025](_posts/2025-12-31-InsuranceAndAI.md)
 - [AI-900 Microsoft Certified Azure AI Fundamentals - Key Takeaways](_posts/2026-02-20-AI900.md)
 - [AZ-900 Microsoft Certified Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
-- [AZ-204 Microsoft Certified Azure Associate Developer - My Solution Design](_posts/2026-03-08-AZ-204SolutionDesign.md)
+- [AZ-204 Azure Associate Developer Solution - Part 1](_posts/2026-03-08-AZ-204SolutionDesign.md)
 - [Building Great Teams - How to build great teams as a new leader](_posts/2025-08-20-BuildingGreatTeams.md)
 - [Data Driven Decisions - The value in data-driven decisions, the data I collect and how I use it](_posts/2025-09-27-DataDrivenDecisions.md)
 - [DDD Notes - Notes from DDD Reading 2017 to 2020 and DDD South West 2024](_posts/2025-08-03-DDDNotes.md)

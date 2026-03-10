@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "AZ-204 Microsoft Certified Azure Associate Developer - My Solution Design"
+title: "AZ-204 Azure Associate Developer Solution - Part 1"
 date: 2026-03-08
 categories: [Azure]
 ---
