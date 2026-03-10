@@ -105,10 +105,9 @@ img{
     }
 
     h1 {
-      margin: 0;
-      font-size: 2rem;
-      display: inline;
-      text-align: center;
+      display: flex;
+      align-items: center;
+      gap: 10px;
     }
 
     h1 img{
@@ -117,7 +116,6 @@ img{
       border-radius: 50%;
       border: 2px solid $primary-light;
       box-shadow: $shadow;
-      display: inline;
       transition: all 0.3s ease;
     }
   }
