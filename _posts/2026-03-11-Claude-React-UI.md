@@ -41,7 +41,7 @@ Here's what that looks like in practice:
 
 ## Test 1: Build Me Something Beautiful
 
-My first test was open-ended. I gave Claude a brief description of what I needed — "I want to build a basic react app for a demo. It must take a job description and allow for a CV upload.". No design specs. No Figma file. Just a prompt. Where is what it came up with...
+My first test was open-ended. I gave Claude a brief description of what I needed — "I want to build a basic react app for a demo. It must take a job description and allow for a CV upload.". No design specs. No Figma file. Just a prompt. Here is what Claude came up with...
 
 ![Image]({{ site.baseurl }}/assets/images/ClaudeBuildFromScratch.jpg)
 
