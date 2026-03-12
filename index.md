@@ -56,6 +56,7 @@ I would like to outline my personal code of conduct for my blog:
 - [Data Driven Decisions - The value in data-driven decisions, the data I collect and how I use it](_posts/2025-09-27-DataDrivenDecisions.md)
 - [DDD Notes - Notes from DDD Reading 2017 to 2020 and DDD South West 2024](_posts/2025-08-03-DDDNotes.md)
 - [Excel VLOOKUP - How to?](_posts/2025-09-20-VLookUp.md)
+- [From Ugly to Stunning in Seconds: How Claude Builds React UIs That Actually Look Good](_posts/2026-03-11-Claude-React-UI.md)
 - [GitHub - Why GitHub is the right direction for DevSecOps](_posts/2025-07-26-GitHubFuture.md)
 - [Lloyd's Lab Accelerator Pitches (Cohort 15) - A technologist's view](_posts/2025-09-10-LloydsLabAccelerator2025.md)
 - [LM1: London Market Essentials 1 - Lessons Learned](_posts/2025-08-02-LM12025.md)
