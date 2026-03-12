@@ -7,7 +7,7 @@ categories: [Azure]
 
 I have three goals for March and April. The first is to find a new job, the second is to pass the AZ-204: Microsoft Certified Azure Developer Associate exam, and the third is to publish more articles on my blog.
 
-With these goals in mind, developing an Azure-based solution that helps customise my CV against a job description while also utilising technologies covered in the AZ-204 exam curriculum, would be many bird with one stone. It will also provide plenty of opportunities for future blog posts.
+With these goals in mind, developing an Azure-based solution that helps customise my CV against a job description while also utilising technologies covered in the AZ-204 exam curriculum, would be many birds with one stone. It will also provide plenty of opportunities for future blog posts.
 
 In this article, I will begin by exploring the high-level architecture for this solution.
 
@@ -47,7 +47,7 @@ As the solution develops and I cover each phase in future blog posts, I will int
 
 This concludes the first post in what will become a series documenting the development of this solution.
 
-I am looking forward to the learning opportunities this project will provide and to sharing that journey through future articles. In the next post, I will begin building the front-end user interface.
+I am looking forward to the learning opportunities this project will provide and to sharing that journey through future blog posts. In the next post, I will begin building the front-end user interface.
 
 If you have any thoughts on this initial design, I would welcome your feedback. Please feel free to get in touch via LinkedIn, email, or any of the other channels listed on my contact page.
  
