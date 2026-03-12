@@ -41,7 +41,7 @@ I asked Claude to rebuild it. Not to describe how to improve it. To actually reb
 
 What came back was a complete redesign that preserved all the functionality of the original while fixing every aesthetic problem. Let's take a look at the before and after...
 
-![Image]({{ site.baseurl }}/assets/images/ClaudeUglyBefore.png)
+![Image]({{ site.baseurl }}/assets/images/ClaudeUglyBefore.png) <br />
 ![Image]({{ site.baseurl }}/assets/images/ClaudeUglyAfter.jpg)
 
 ---
