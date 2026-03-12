@@ -41,23 +41,19 @@ Here's what that looks like in practice:
 
 ## Test 1: Build Me Something Beautiful
 
-My first test was open-ended. I gave Claude a brief description of what I needed — a dashboard component for a SaaS product — and asked it to build something worth looking at. No design specs. No Figma file. Just a prompt.
-
-The result was not generic. Claude chose a refined dark-mode aesthetic with warm amber accents, used a distinctive serif display font for the headline metrics, and structured the layout with generous negative space that made the data breathe. The component had hover states, animated counters, and a sidebar that responded to interaction — all in a single file, using Tailwind utility classes.
-
-More importantly, it felt *designed*. Not assembled — designed. That's the difference that's hard to quantify but impossible to miss.
+My first test was open-ended. I gave Claude a brief description of what I needed — "I want to build a basic react app for a demo. It must take a job description and allow for a CV upload.". No design specs. No Figma file. Just a prompt. Where is what it came up with...
 
 ![Image]({{ site.baseurl }}/assets/images/ClaudeBuildFromScratch.jpg)
 
 ---
 
-## Test 2: Fix This Ugly UI
+## Test 2: Redesign This Ugly UI
 
-The second test was more demanding: I uploaded a screenshot of a genuinely bad interface. We're talking inconsistent spacing, clashing colors, a font hierarchy that communicated nothing, and a layout that made it hard to find anything. The kind of UI that's functional but painful.
+The second test was more demanding: I uploaded a screenshot of a genuinely bad interface. We're talking unorganised chaos, lot's of grey check-boxes, no page-flow and the kind of UI that's functional but painful.
 
 I asked Claude to rebuild it. Not to describe how to improve it. To actually rebuild it.
 
-What came back was a complete redesign that preserved all the functionality of the original while fixing every aesthetic problem. Claude diagnosed the issues systematically — the visual hierarchy was inverted, the color use was creating noise rather than signal, the spacing was inconsistent at every breakpoint — and addressed each one in code. The result was something I'd actually be proud to show to users.
+What came back was a complete redesign that preserved all the functionality of the original while fixing every aesthetic problem. Let's take a look at the before and after...
 
 ![Image]({{ site.baseurl }}/assets/images/ClaudeUglyBefore.png)
 ![Image]({{ site.baseurl }}/assets/images/ClaudeUglyAfter.jpg)
@@ -86,7 +82,7 @@ Building a real system means grappling with:
 
 - Authentication and authorisation — who can access what, and how do you enforce it securely at every layer, not just the UI?
 - Resilience — what happens when a service fails, a network call times out, or a database goes down? A beautiful UI that surfaces a blank screen under load isn't production-ready.
-- Scalability — can your architecture handle ten users? Ten thousand? Will it cost you a fortune to find out it can't?
+- Scalability — can your architecture handle ten users? Ten thousand? Will it cost you a fortune to find out?
 - Observability — can you see what your system is doing in production? Logs, metrics, traces, alerting — without these, you're flying blind when things go wrong.
 - Cloud infrastructure knowledge — deploying, managing, and optimising on AWS, GCP, or Azure requires expertise that goes far beyond what any UI generator touches.
 
@@ -111,8 +107,6 @@ The AI tool landscape for UI generation is full of half-solutions. Tools that te
 Claude does something different. It treats UI generation as a design problem, not just a code generation problem — and it solves both simultaneously. The result is interfaces that are complete, functional, and genuinely worth looking at.
 
 Just remember: a great front door is only the beginning. What's behind it still takes real engineering.
-
-If you've been frustrated by the gap between what AI UI tools promise and what they deliver, it's worth spending an hour with Claude. What surprised me wasn't that it could build a UI. It was that it could build one I was genuinely proud of.
 
 ---
 
