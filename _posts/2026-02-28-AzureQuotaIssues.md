@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Troubleshooting Azure Quote Issues"
+title: "Troubleshooting Azure Quota Issues"
 date: 2026-02-28
 categories: [Azure]
 ---
