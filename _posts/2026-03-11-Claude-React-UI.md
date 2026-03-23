@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "From Ugly to Stunning in Seconds: How AI Builds React UIs That Actually Look Good"
+title: "From Ugly to Stunning in Seconds: How Claude AI Builds User Interfaces That Actually Look Good"
 date: 2026-03-11
 categories: [AI, Development, React]
 ---
