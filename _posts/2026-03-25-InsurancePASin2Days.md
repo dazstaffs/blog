@@ -79,4 +79,4 @@ I hope you enjoyed reading this post. In my next post I will be taking on an eve
 
 ---
 
-**If you have a legacy system that needs rebuilding, or a product idea that needs a frontend, I would love to discuss it with you. I am currently available for new engagements.** 
+**If you have a legacy system that needs rebuilding, or a product idea, I would love to discuss it with you. I am currently available for new engagements.** 
