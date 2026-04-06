@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "CAP Theorem, ACID vs BASE"
+title: "Database Architecture - CAP Theorem, ACID vs BASE"
 date: 2026-04-06
 categories: [Databases]
 ---
@@ -63,6 +63,17 @@ BASE emerged from large-scale distributed systems:
 It's strengths include High Availability, better horizontal scalability and lower latency. But it's limitations include temporary inconsistency, increased application complexity and harder correctness guarantees.
 
 BASE systems align with **AP** in CAP.
+
+---
+
+## How This Applies to Database Technology Choices
+
+These trade-offs are reflected in database technologies:
+
+- Relational (SQL) databases typically favour ACID properties and strong consistency.
+- NoSQL databases often prioritise availability and scalability, aligning more with BASE principles.
+
+This is not a strict divide. Many modern databases support tunable consistency and transactional features, meaning the choice is less about SQL vs NoSQL, and more about how consistency and availability are configured.
 
 ---
 
