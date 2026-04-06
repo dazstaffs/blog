@@ -30,10 +30,10 @@ In distributed systems, partition tolerance is non-negotiable because networks w
 
 This leads to two dominant system types:
 
-- CP systems: Prioritize consistency over availability
+- CP systems: Prioritises consistency over availability
   (e.g., reject requests if consistency cannot be guaranteed)
 
-- AP systems: Prioritize availability over consistency
+- AP systems: Prioritises availability over consistency
   (e.g., serve potentially stale data but remain responsive)
 
 ---
