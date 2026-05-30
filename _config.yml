@@ -25,3 +25,5 @@ collections:
   tags:
     output: true
     permalink: /tags/:name/
+
+google_analytics: G-SM6Q3WE38S
