@@ -48,6 +48,7 @@ I would like to outline my personal code of conduct for my blog:
 
 ## 🔁 Previous Posts - A-Z
 
+- [AI Strategy For Financial Services](_posts/2026-11-04-AIStrategyForFinancialServices.md)
 - [AI Transforming Insurance - How AI is transforming Insurance in 2025](_posts/2025-12-31-InsuranceAndAI.md)
 - [AI-900 Microsoft Certified Azure AI Fundamentals - Key Takeaways](_posts/2026-02-20-AI900.md)
 - [AZ-900 Microsoft Certified Azure Fundamentals - Key Takeaways](_posts/2025-07-25-AZ900.md)
