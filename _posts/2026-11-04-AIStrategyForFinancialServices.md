@@ -96,3 +96,7 @@ AI strategy in financial services isn't about the cleverest model. Here is a che
 - **Assessment:** Does every new AI tool go through the same five-part assessment before it's switched on?
 - **Never-touch list:** Have we written the list down, had it approved at board level, and told staff about it?
 - **Measurement:** Are we tracking time saved, quality and customer outcomes, rather than just usage?
+
+---
+
+**If you're shaping an AI strategy or governance framework for your organisation, I'd love to help you put it into practice. I'm currently available for new roles and engagements, so please [get in touch]({{ site.baseurl }}/contact/).**
