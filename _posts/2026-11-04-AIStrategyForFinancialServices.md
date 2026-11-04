@@ -91,7 +91,7 @@ Writing it down gives teams a clear boundary and fits the FCA's Consumer Duty fo
 AI strategy in financial services isn't about the cleverest model. Here is a checklist a CTO and COO can work through together:
 
 - **Processes:** Have we named three high-value processes where AI will support our experts, each with an accountable owner?
-- **Design:** For each process, have we chosen how AI output gets checked, and is any checking AI independent of the model it checks?
+- **Design:** For each process, have we chosen how AI output gets checked, and is any checking independent of the model it checks?
 - **Deployment:** For each use case, have we decided between local and hosted models based on the data involved?
 - **Assessment:** Does every new AI tool go through the same five-part assessment before it's switched on?
 - **Never-touch list:** Have we written the list down, had it approved at board level, and told staff about it?
