@@ -933,6 +933,53 @@ pre {
 }
 
 // ============================================================
+//  TABLES
+// ============================================================
+.post .content table {
+  width: 100%;
+  margin: 1.8rem 0;
+  border-collapse: collapse;
+  font-size: 0.92rem;
+  line-height: 1.5;
+  background: $ivory;
+  border: 1px solid $light-rule;
+  border-radius: $radius;
+  box-shadow: $shadow-soft;
+  overflow: hidden;
+
+  th, td {
+    padding: 0.7rem 1rem;
+    text-align: left;
+    vertical-align: top;
+    border-bottom: 1px solid $light-rule;
+  }
+
+  th {
+    background: $warm-dark;
+    color: $ivory;
+    font-weight: 600;
+    font-size: 0.85rem;
+    letter-spacing: 0.02em;
+  }
+
+  tbody tr:nth-child(even) { background: $parchment; }
+  tbody tr:last-child td { border-bottom: none; }
+
+  td:first-child {
+    font-weight: 600;
+    color: $warm-dark;
+  }
+
+  @media (max-width: 768px) {
+    display: block;
+    overflow-x: auto;
+    white-space: normal;
+
+    th, td { min-width: 9rem; }
+  }
+}
+
+// ============================================================
 //  READING PROGRESS (optional JS hook)
 // ============================================================
 .progress-bar {
