@@ -15,7 +15,7 @@ Those three worries are where an AI strategy should start. My view is that it co
 
 ## Augment the Experts, Don't Replace Them
 
-The business case that starts with headcount reduction is usually the one that stalls. It turns the experts you need against the project, and it aims AI at the work where mistakes are most expensive. A better question is where your best people spend time on work that isn't the judgement you hired them for. In insurance that list writes itself:
+The business case that starts with headcount reduction is usually the one that stalls. It also aims AI at the work where mistakes are most expensive. A better question is where your best people spend time on work that isn't the judgement you hired them for. In insurance that list writes itself:
 
 | Process | Where AI helps | Who stays accountable |
 |---|---|---|
